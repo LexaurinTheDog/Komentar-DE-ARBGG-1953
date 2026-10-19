@@ -1,4 +1,8 @@
-"""Second-process checks against freshly fetched primary XML and rendered book."""
+"""Run in assigned WORK: compare freshly fetched XML, manuscript and rendered book.
+
+The OUTPUT copy documents this verification algorithm; authoring fragments remain
+in WORK because their relative links target the assembled book's root.
+"""
 from pathlib import Path
 import json,re,hashlib,xml.etree.ElementTree as ET
 from collections import Counter

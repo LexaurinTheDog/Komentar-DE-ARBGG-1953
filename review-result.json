@@ -1,9 +1,7 @@
 {
-  "complete": false,
+  "complete": true,
   "units_reviewed": 147,
-  "unresolved_blockers": [
-    "Final build and strict validation pending"
-  ],
+  "unresolved_blockers": [],
   "findings": [
     {
       "unit": "p22",
@@ -87,6 +85,44 @@
     }
   ],
   "limitations": [
-    "Selective case-law coverage; no external professional approval."
-  ]
+    "Selektive Rechtsprechungsabdeckung: zwei vollständig geprüfte BAG-Entscheidungen; keine umfassende Judikaturauswertung aller Vorschriften.",
+    "Landesverordnungen, tatsächliche Gerichtsorganisation und Geschäftsverteilungspläne nicht für sämtliche Länder erhoben.",
+    "Extern verwiesene Gesetze nur punktuell geprüft; keine vollständigen Nebenkommentare oder Edition aller historischen Verweisungsfassungen.",
+    "Aktualität anhand amtlicher Konsolidierung und konkreter jüngster Verkündung; keine vollständige historische Nachkonsolidierung aller Änderungsakte.",
+    "Gesonderte zweite Durchsicht durch frischen Bearbeitungsprozess, keine externe anwaltliche oder professionelle Freigabe."
+  ],
+  "review_date": "2026-10-19",
+  "reviewed_cases": [
+    {
+      "court": "BAG",
+      "date": "2023-05-23",
+      "docket": "10 AZB 18/22",
+      "paragraphs_read": 44
+    },
+    {
+      "court": "BAG",
+      "date": "2020-09-14",
+      "docket": "5 AZB 23/20",
+      "paragraphs_read": 33
+    }
+  ],
+  "validation": {
+    "repo": "Komentar-DE-ARBGG-1953",
+    "units": 147,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 168551,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "statutory_completeness": "147 expected official numbered IDs = 147 parsed IDs = 147 reviewed/commented IDs; no missing or duplicate IDs",
+  "evidence": [
+    "REVIEW.md",
+    "second-pass-unit-review.json",
+    "second-pass-corrections.json",
+    "second-pass-validation.json",
+    "cases/second-pass-claim-support.json",
+    "sources/second-pass/verification.json"
+  ],
+  "external_professional_approval": false
 }
