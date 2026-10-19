@@ -1,6 +1,59 @@
 {
-  "method": "Comparison of unique five-word sequences across all ordinary commentary blocks; technical signals, not semantic quality certification",
-  "ordinary_blocks": 134,
-  "highest_overlap_pairs": [],
-  "assessment": "No exact repeated substantive paragraph. Similarities between corresponding appellate provisions were inspected in their different statutory contexts; short repeal notes excluded from ordinary-block comparison."
+  "method": "Unique five-word sequence Jaccard comparison; operative provisions only, excluding all explicit vacant and repealed slots",
+  "operative_blocks": 133,
+  "all_commentary_blocks": 147,
+  "highest_overlap_pairs": [
+    {
+      "first": "p46g",
+      "second": "p77",
+      "five_word_jaccard": 0.03
+    },
+    {
+      "first": "p31",
+      "second": "p39",
+      "five_word_jaccard": 0.02679
+    },
+    {
+      "first": "p11",
+      "second": "p77",
+      "five_word_jaccard": 0.02508
+    },
+    {
+      "first": "p46c",
+      "second": "p66",
+      "five_word_jaccard": 0.02452
+    },
+    {
+      "first": "p11",
+      "second": "p46g",
+      "five_word_jaccard": 0.02151
+    },
+    {
+      "first": "p66",
+      "second": "p74",
+      "five_word_jaccard": 0.02113
+    },
+    {
+      "first": "p76",
+      "second": "p96a",
+      "five_word_jaccard": 0.01389
+    },
+    {
+      "first": "p89",
+      "second": "p97",
+      "five_word_jaccard": 0.01194
+    },
+    {
+      "first": "p72b",
+      "second": "p92b",
+      "five_word_jaccard": 0.01115
+    },
+    {
+      "first": "p89",
+      "second": "p94",
+      "five_word_jaccard": 0.01075
+    }
+  ],
+  "pairs_above_0_07": [],
+  "assessment": "Technical similarity screen only. Highest pairs concern corresponding procedural rules and were checked against their distinct statutory references. No exact repeated substantive paragraphs in separate audit. No certification of semantic originality or legal correctness."
 }

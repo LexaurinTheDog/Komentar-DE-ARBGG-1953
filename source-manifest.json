@@ -185,6 +185,24 @@
       "sha256": "5c62e9d90a08caf7f4a9c6ca6d27c2efd3ad8a0207552a6fae70761da8022117",
       "expected_content": "§ 43",
       "format_validated": "HTML with expected provision label"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/ArbGG.xml",
+      "accessed_at": "2026-10-19T14:49:25.713010+00:00",
+      "http_status": 404,
+      "path": "sources/direct-xml-unavailable-1.html",
+      "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e",
+      "format_validated": "HTML error body; deliberately rejected as statutory XML",
+      "used_as_law_source": false
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/BJNR012670953.xml",
+      "accessed_at": "2026-10-19T14:49:26.243342+00:00",
+      "http_status": 404,
+      "path": "sources/direct-xml-unavailable-2.html",
+      "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e",
+      "format_validated": "HTML error body; deliberately rejected as statutory XML",
+      "used_as_law_source": false
     }
   ],
   "case_http_checks": [
@@ -233,6 +251,16 @@
       "path": "sources/change-map.json",
       "bytes": 14606,
       "sha256": "f17a1c9d5138a6ed6261334d5da39ab98c384ec8cdb82eddca22feacfc690c62"
+    },
+    {
+      "path": "sources/direct-xml-unavailable-1.html",
+      "bytes": 236,
+      "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e"
+    },
+    {
+      "path": "sources/direct-xml-unavailable-2.html",
+      "bytes": 236,
+      "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e"
     },
     {
       "path": "sources/eggvg-43.html",
@@ -296,8 +324,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 8470,
-      "sha256": "85b480823edd6ae9d355028d70f0971f77f181507ebd4d9cfb9dcbdd7289b612"
+      "bytes": 9284,
+      "sha256": "8c0c9a9b2176470b73ef653fcc0ca04b2176287a699484335883534dac85e8d8"
     },
     {
       "path": "sources/version-assessment.json",

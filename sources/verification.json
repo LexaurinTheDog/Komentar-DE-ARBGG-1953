@@ -180,5 +180,23 @@
     "sha256": "5c62e9d90a08caf7f4a9c6ca6d27c2efd3ad8a0207552a6fae70761da8022117",
     "expected_content": "§ 43",
     "format_validated": "HTML with expected provision label"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/arbgg/ArbGG.xml",
+    "accessed_at": "2026-10-19T14:49:25.713010+00:00",
+    "http_status": 404,
+    "path": "sources/direct-xml-unavailable-1.html",
+    "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e",
+    "format_validated": "HTML error body; deliberately rejected as statutory XML",
+    "used_as_law_source": false
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/arbgg/BJNR012670953.xml",
+    "accessed_at": "2026-10-19T14:49:26.243342+00:00",
+    "http_status": 404,
+    "path": "sources/direct-xml-unavailable-2.html",
+    "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e",
+    "format_validated": "HTML error body; deliberately rejected as statutory XML",
+    "used_as_law_source": false
   }
 ]
