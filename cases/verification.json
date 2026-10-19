@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azb-18-22/",
+    "accessed_at": "2026-10-19T14:31:07.483194+00:00",
+    "http_status": 200,
+    "path": "cases/bag-10-azb-18-22-official.html",
+    "sha256": "404ddc6ea06b20b918496eec8296bddbfc1c5a6d9f9bd2d60fa9395c6dad8aa7"
+  },
+  {
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azb-23-20/",
+    "accessed_at": "2026-10-19T14:31:08.760536+00:00",
+    "http_status": 200,
+    "path": "cases/bag-5-azb-23-20-official.html",
+    "sha256": "afddc12f96c0c7cdc4cef99bacf5937e51e228c08ba6a08c293b2b481ba738b1"
+  }
+]

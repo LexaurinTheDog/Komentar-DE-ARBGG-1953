@@ -1,0 +1,11 @@
+{
+  "research_date": "2026-10-19",
+  "scope": "Selektive Volltextrecherche zum elektronischen Rechtsverkehr und Berufungszugang; keine vollständige Judikaturauswertung des ArbGG",
+  "searches": [
+    {"source":"local DE RII manifest and Markdown corpus","query":"10 AZB 18/22; 5 AZB 23/20; 8 AZR 492/17; 9 AZB 98/14; 7 ABR 55/14","result":"Drei Treffer im Manifest; nur die zwei digitalprozessualen Entscheidungen wurden als Autoritäten vollständig ausgewertet. Der Treffer 7 ABR 55/14 wurde nicht inhaltlich verwendet."},
+    {"source":"Firecrawl web search","query":"site.bundesarbeitsgericht.de 46g ArbGG 2022 2023","evidence":"../sources/research/search-46g.json","result":"Amtlicher BAG-Volltext 10 AZB 18/22 gefunden und direkt abgerufen"},
+    {"source":"Firecrawl web search","query":"site:bundesarbeitsgericht.de 12a 8 AZR 492/17","result":"Keine Treffer; keine Entscheidung als Beleg verwendet"},
+    {"source":"BAG official decision database","query":"Direct full-text URLs 10-azb-18-22 and 5-azb-23-20","result":"Beide HTTP 200; vollständige Entscheidungsgründe mit lokalen amtlichen RII-Texten gelesen und abgeglichen","verification":"verification.json"}
+  ],
+  "other_units": "Für die übrigen Vorschriften wurde keine zusätzliche hinreichend einschlägige Volltextautorität in diese Fassung aufgenommen. Bei technischen, organisationsrechtlichen und weggefallenen Stellen wurde keine Entscheidung erzwungen. Das ist keine Feststellung, dass einschlägige Rechtsprechung nicht existiert."
+}

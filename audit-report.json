@@ -1,0 +1,19 @@
+{
+  "units": 147,
+  "commented_units": 147,
+  "commentary_chars": 166570,
+  "missing_comments": [],
+  "extra_comments": [],
+  "duplicate_delimiters": {},
+  "ordinary_units_below_700_chars": [],
+  "exact_repeated_substantive_paragraphs": [],
+  "broken_local_links": [
+    {
+      "file": "REVIEW.md",
+      "target": "validation-result.json"
+    }
+  ],
+  "minimum_length_is_quality_proof": false,
+  "legal_review": "Author source-based drafting checks only; independent second pass outstanding.",
+  "ok": false
+}

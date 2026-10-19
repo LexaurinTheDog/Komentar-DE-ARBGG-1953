@@ -1,0 +1,379 @@
+{
+  "title": "Arbeitsgerichtsgesetz",
+  "decisive_date": "2026-10-19",
+  "official_source": "https://www.gesetze-im-internet.de/arbgg/",
+  "legal_version": "Art. 7 G v. 20.5.2026 I Nr. 152, wirksam seit 1.10.2026",
+  "statutory_http_checks": [
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/ArbGG.xml",
+      "error": "HTTP Error 404: Not Found",
+      "accessed_at": "2026-10-19T14:25:29.058785+00:00",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/BJNR012670953.xml",
+      "error": "HTTP Error 404: Not Found",
+      "accessed_at": "2026-10-19T14:25:29.294439+00:00",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/index.html",
+      "accessed_at": "2026-10-19T14:25:30.086594+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "bf930b3aef69756e697303641a1b3f93bf53558a53e4653c9fe2f34b56240a6b",
+      "path": "sources/index.html",
+      "version_information": {
+        "official_last_amendment": "Art. 7 G v. 20.5.2026 I Nr. 152",
+        "decisive_date": "2026-10-19",
+        "commencement": "2026-10-01",
+        "commencement_proof": "BGBl. 2026 I Nr. 152 Art. 18 Abs. 1; Art. 7 ist nicht von Ausnahmen der Abs. 2–4 erfasst",
+        "builddate_is_not_commencement_proof": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/",
+      "accessed_at": "2026-10-19T14:25:33.526430+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "bf930b3aef69756e697303641a1b3f93bf53558a53e4653c9fe2f34b56240a6b",
+      "path": "sources/landing.html",
+      "version_information": {
+        "official_last_amendment": "Art. 7 G v. 20.5.2026 I Nr. 152",
+        "decisive_date": "2026-10-19",
+        "commencement": "2026-10-01",
+        "commencement_proof": "BGBl. 2026 I Nr. 152 Art. 18 Abs. 1; Art. 7 ist nicht von Ausnahmen der Abs. 2–4 erfasst",
+        "builddate_is_not_commencement_proof": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/xml.zip",
+      "accessed_at": "2026-10-19T14:25:46.177711+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "453eba18d24c08523fe3fba3b567ab6cc1949f26c0c6e659c61c584ed9d970e3",
+      "path": "sources/arbgg.zip",
+      "xml": {
+        "path": "sources/arbgg.xml",
+        "sha256": "ee4064238832c74335dd689bd168babb81c323782f9af6ac211d142d28fa12e4",
+        "root": "dokumente"
+      },
+      "version_information": {
+        "official_last_amendment": "Art. 7 G v. 20.5.2026 I Nr. 152",
+        "decisive_date": "2026-10-19",
+        "commencement": "2026-10-01",
+        "commencement_proof": "BGBl. 2026 I Nr. 152 Art. 18 Abs. 1; Art. 7 ist nicht von Ausnahmen der Abs. 2–4 erfasst",
+        "builddate_is_not_commencement_proof": true
+      },
+      "format_validated": "ZIP opens without error; member BJNR012670953.xml parses as dokumente with jurabk ArbGG and expected doknr"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html",
+      "accessed_at": "2026-10-19T14:25:47.636985+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "35fc7d821eb4fcb244e2c2f88ba93085d7cffbf1a3306e06b44a59f1eaa5117a",
+      "path": "sources/gesamt.html",
+      "version_information": {
+        "official_last_amendment": "Art. 7 G v. 20.5.2026 I Nr. 152",
+        "decisive_date": "2026-10-19",
+        "commencement": "2026-10-01",
+        "commencement_proof": "BGBl. 2026 I Nr. 152 Art. 18 Abs. 1; Art. 7 ist nicht von Ausnahmen der Abs. 2–4 erfasst",
+        "builddate_is_not_commencement_proof": true
+      }
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-19T14:26:17.992826+00:00",
+      "http_status": 200,
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "path": "sources/bgbl-2026-I-152.pdf",
+      "format_validated": "%PDF",
+      "version_information": {
+        "amendment": "Article 7 adds ArbGG § 62(3)",
+        "commencement_clause": "Article 18(1), 2026-10-01",
+        "exceptions": "Article 18(2)–(4) refer only to Articles 16, 2 and 3"
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__752a.html",
+      "accessed_at": "2026-10-19T14:43:38.272362+00:00",
+      "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+      "http_status": null,
+      "http_result": "Not retained by failed client validation; see later successful record for this URL"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__753a.html",
+      "accessed_at": "2026-10-19T14:43:38.272622+00:00",
+      "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+      "http_status": null,
+      "http_result": "Not retained by failed client validation; see later successful record for this URL"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+      "accessed_at": "2026-10-19T14:43:38.272687+00:00",
+      "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+      "http_status": null,
+      "http_result": "Not retained by failed client validation; see later successful record for this URL"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/eggvge/__43.html",
+      "accessed_at": "2026-10-19T14:43:38.272734+00:00",
+      "error": "HTTP Error 404: Not Found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__752a.html",
+      "accessed_at": "2026-10-19T14:45:14.687893+00:00",
+      "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+      "http_status": null,
+      "http_result": "Not retained by failed client validation; see later successful record for this URL"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__753a.html",
+      "accessed_at": "2026-10-19T14:45:14.688145+00:00",
+      "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+      "http_status": null,
+      "http_result": "Not retained by failed client validation; see later successful record for this URL"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+      "accessed_at": "2026-10-19T14:45:14.688210+00:00",
+      "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+      "http_status": null,
+      "http_result": "Not retained by failed client validation; see later successful record for this URL"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvgeg/__43.html",
+      "accessed_at": "2026-10-19T14:45:14.688254+00:00",
+      "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+      "http_status": null,
+      "http_result": "Not retained by failed client validation; see later successful record for this URL"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__752a.html",
+      "accessed_at": "2026-10-19T14:46:21.986276+00:00",
+      "http_status": 200,
+      "path": "sources/zpo-752a.html",
+      "sha256": "72b64697fe6794f8de8fd41e4278ea235e8cdbe232c3aad282b1790d94198ccf",
+      "expected_content": "§ 752a",
+      "format_validated": "HTML with expected provision label"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__753a.html",
+      "accessed_at": "2026-10-19T14:46:21.986501+00:00",
+      "http_status": 200,
+      "path": "sources/zpo-753a.html",
+      "sha256": "7cc0161e8a39f93849b702aeafe5d3c83f31fdd71237e3ec2fbd09e66a78cd29",
+      "expected_content": "§ 753a",
+      "format_validated": "HTML with expected provision label"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+      "accessed_at": "2026-10-19T14:46:21.986562+00:00",
+      "http_status": 200,
+      "path": "sources/urhg-5.html",
+      "sha256": "0d1230ebb389ebdfdd0cb265ac74ee91345d19787520507c4db51cf85e375524",
+      "expected_content": "§ 5",
+      "format_validated": "HTML with expected provision label"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvgeg/__43.html",
+      "accessed_at": "2026-10-19T14:46:21.986604+00:00",
+      "http_status": 200,
+      "path": "sources/eggvg-43.html",
+      "sha256": "5c62e9d90a08caf7f4a9c6ca6d27c2efd3ad8a0207552a6fae70761da8022117",
+      "expected_content": "§ 43",
+      "format_validated": "HTML with expected provision label"
+    }
+  ],
+  "case_http_checks": [
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azb-18-22/",
+      "accessed_at": "2026-10-19T14:31:07.483194+00:00",
+      "http_status": 200,
+      "path": "cases/bag-10-azb-18-22-official.html",
+      "sha256": "404ddc6ea06b20b918496eec8296bddbfc1c5a6d9f9bd2d60fa9395c6dad8aa7"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azb-23-20/",
+      "accessed_at": "2026-10-19T14:31:08.760536+00:00",
+      "http_status": 200,
+      "path": "cases/bag-5-azb-23-20-official.html",
+      "sha256": "afddc12f96c0c7cdc4cef99bacf5937e51e228c08ba6a08c293b2b481ba738b1"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "sources/arbgg-canonical.md",
+      "bytes": 149721,
+      "sha256": "795a7ef78d13f3ce840fc37f33b68036575876aa855c795751665cfe9fba4f17"
+    },
+    {
+      "path": "sources/arbgg.xml",
+      "bytes": 202152,
+      "sha256": "ee4064238832c74335dd689bd168babb81c323782f9af6ac211d142d28fa12e4"
+    },
+    {
+      "path": "sources/arbgg.zip",
+      "bytes": 40671,
+      "sha256": "453eba18d24c08523fe3fba3b567ab6cc1949f26c0c6e659c61c584ed9d970e3"
+    },
+    {
+      "path": "sources/bgbl-2026-I-152.pdf",
+      "bytes": 371774,
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e"
+    },
+    {
+      "path": "sources/bgbl-2026-I-152.txt",
+      "bytes": 37646,
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652"
+    },
+    {
+      "path": "sources/change-map.json",
+      "bytes": 14606,
+      "sha256": "f17a1c9d5138a6ed6261334d5da39ab98c384ec8cdb82eddca22feacfc690c62"
+    },
+    {
+      "path": "sources/eggvg-43.html",
+      "bytes": 3494,
+      "sha256": "5c62e9d90a08caf7f4a9c6ca6d27c2efd3ad8a0207552a6fae70761da8022117"
+    },
+    {
+      "path": "sources/eggvg-43.txt",
+      "bytes": 535,
+      "sha256": "da0137fdb2b88bd9bc3897123763ddaa60581c237d96ca05f53d1bd731f42519"
+    },
+    {
+      "path": "sources/gesamt.html",
+      "bytes": 243432,
+      "sha256": "35fc7d821eb4fcb244e2c2f88ba93085d7cffbf1a3306e06b44a59f1eaa5117a"
+    },
+    {
+      "path": "sources/index.html",
+      "bytes": 32076,
+      "sha256": "bf930b3aef69756e697303641a1b3f93bf53558a53e4653c9fe2f34b56240a6b"
+    },
+    {
+      "path": "sources/intake-original.md",
+      "bytes": 151980,
+      "sha256": "60eac96643ad176e813abafb9c5f4f8ab87036235b23a7ca85728d3f5a91dac5"
+    },
+    {
+      "path": "sources/landing.html",
+      "bytes": 32076,
+      "sha256": "bf930b3aef69756e697303641a1b3f93bf53558a53e4653c9fe2f34b56240a6b"
+    },
+    {
+      "path": "sources/research/search-46g.json",
+      "bytes": 1473,
+      "sha256": "33fd6df7dd68949cb2a029d8ee18165a434b625323f46c2970c93828ed6a4b84"
+    },
+    {
+      "path": "sources/research/search-latest.json",
+      "bytes": 1545,
+      "sha256": "0abedeba61b7954e455cc7c9e4fb15e7822a921d7780dcb703b8fffa1361d6f5"
+    },
+    {
+      "path": "sources/research/search-version.json",
+      "bytes": 1572,
+      "sha256": "c5eeae1b990b1d605509c2924f47574e66f0642815d50802afc18e37324dbed2"
+    },
+    {
+      "path": "sources/structure.json",
+      "bytes": 3267,
+      "sha256": "c26fcbf0dd38a242519a0a0d3eeaed5212dc8d35517e346fac8118be198952f7"
+    },
+    {
+      "path": "sources/urhg-5.html",
+      "bytes": 4525,
+      "sha256": "0d1230ebb389ebdfdd0cb265ac74ee91345d19787520507c4db51cf85e375524"
+    },
+    {
+      "path": "sources/urhg-5.txt",
+      "bytes": 1448,
+      "sha256": "f2ee4dd180603e4af42356db9c95a9eeb3b933391248018c4ea8f36b34c03b80"
+    },
+    {
+      "path": "sources/verification.json",
+      "bytes": 8470,
+      "sha256": "85b480823edd6ae9d355028d70f0971f77f181507ebd4d9cfb9dcbdd7289b612"
+    },
+    {
+      "path": "sources/version-assessment.json",
+      "bytes": 2728,
+      "sha256": "d1657e31e0664e733980838294e6459c3d3258e7f883892e4c016866f1bdc869"
+    },
+    {
+      "path": "sources/zpo-752a.html",
+      "bytes": 4066,
+      "sha256": "72b64697fe6794f8de8fd41e4278ea235e8cdbe232c3aad282b1790d94198ccf"
+    },
+    {
+      "path": "sources/zpo-752a.txt",
+      "bytes": 1020,
+      "sha256": "7400134fe7561301781f8f7dd24412101b0a6e9f001e208d2ccf035035303946"
+    },
+    {
+      "path": "sources/zpo-753a.html",
+      "bytes": 4113,
+      "sha256": "7cc0161e8a39f93849b702aeafe5d3c83f31fdd71237e3ec2fbd09e66a78cd29"
+    },
+    {
+      "path": "sources/zpo-753a.txt",
+      "bytes": 1099,
+      "sha256": "fc295166d00274f2340fd719661c43491986d0a3575f6902c092433dedefea27"
+    },
+    {
+      "path": "cases/bag-10-azb-18-22-official.html",
+      "bytes": 141907,
+      "sha256": "404ddc6ea06b20b918496eec8296bddbfc1c5a6d9f9bd2d60fa9395c6dad8aa7"
+    },
+    {
+      "path": "cases/bag-10-azb-18-22-official.txt",
+      "bytes": 60177,
+      "sha256": "e1acb3303f49fec569c9847a3a4e6af13d113adfb3d80a45182cf2daf1028e30"
+    },
+    {
+      "path": "cases/bag-10-azb-18-22-source.md",
+      "bytes": 34677,
+      "sha256": "8421ea38ede2eedc90dcf2f063c83efa86acf6ce0f7f901558387772d71fc385"
+    },
+    {
+      "path": "cases/bag-10-azb-18-22.md",
+      "bytes": 2793,
+      "sha256": "dbdee760798bdff2f2402b38b5d2dca805c98fae815bb8f939df8ae9ba81338d"
+    },
+    {
+      "path": "cases/bag-5-azb-23-20-official.html",
+      "bytes": 133329,
+      "sha256": "afddc12f96c0c7cdc4cef99bacf5937e51e228c08ba6a08c293b2b481ba738b1"
+    },
+    {
+      "path": "cases/bag-5-azb-23-20-official.txt",
+      "bytes": 53704,
+      "sha256": "758c32f62281cfb076de2f30b25ccf0cef6465c951e01ccb31a6d94ffe889dec"
+    },
+    {
+      "path": "cases/bag-5-azb-23-20-source.md",
+      "bytes": 28095,
+      "sha256": "288c0b3ebe7044175ee10a857524648a3ceb1389e442edcd1e2981be97790689"
+    },
+    {
+      "path": "cases/bag-5-azb-23-20.md",
+      "bytes": 3054,
+      "sha256": "74e28dc3e7f0b936790ef82873dc0b27b619f4b5d2fe6c87ea6fc500ab142db1"
+    },
+    {
+      "path": "cases/search-log.json",
+      "bytes": 1513,
+      "sha256": "3ebcbfea1f9c4f37302151b59ed0bbc1a014110502e8f61d3c0e86a17adaff59"
+    },
+    {
+      "path": "cases/verification.json",
+      "bytes": 596,
+      "sha256": "e7c58bb9f1ca600154fece710d75a60d6f5711f29cf66ef3844aa38dbbab7e5f"
+    }
+  ],
+  "note": "Hashes cover preserved raw and derived source files; validation outputs and manifest itself excluded to avoid circular hashes."
+}

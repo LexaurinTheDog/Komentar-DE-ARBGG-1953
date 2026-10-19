@@ -1,0 +1,85 @@
+{
+  "decisive_date": "2026-10-19",
+  "original_intake_retrieved_at": "2026-10-01T23:07:54Z",
+  "original_sha256": "60eac96643ad176e813abafb9c5f4f8ab87036235b23a7ca85728d3f5a91dac5",
+  "official_xml_sha256": "ee4064238832c74335dd689bd168babb81c323782f9af6ac211d142d28fa12e4",
+  "legal_version": "Art. 7 G vom 20.5.2026, BGBl. 2026 I Nr. 152, wirksam 1.10.2026",
+  "commencement_evidence": {
+    "path": "sources/bgbl-2026-I-152.pdf",
+    "amendment_article": 7,
+    "commencement_article": "18 Absatz 1",
+    "amendment_text_match_to_p62": true
+  },
+  "current_vs_intake": "§ 62 Absatz 3 war im Intake bereits textlich enthalten. Der aktuelle Kopf nennt die Änderung als abschließend eingearbeiteten letzten Stand. Kein zusätzlicher operativer Wortlautunterschied nach Trennung von Hinweisen und leeren Körpern.",
+  "comparison_dispositions": [
+    {
+      "id": "p25",
+      "classification": "empty-body display using official title"
+    },
+    {
+      "id": "p32",
+      "classification": "empty-body display using official title"
+    },
+    {
+      "id": "p46f",
+      "classification": "editorial footnote separated from operative text"
+    },
+    {
+      "id": "p58",
+      "classification": "editorial footnote separated from operative text"
+    },
+    {
+      "id": "p70",
+      "classification": "empty-body display using official title"
+    },
+    {
+      "id": "p71",
+      "classification": "empty-body display using official title"
+    },
+    {
+      "id": "p86",
+      "classification": "empty-body display using official title"
+    },
+    {
+      "id": "p99",
+      "classification": "editorial footnote separated from operative text"
+    },
+    {
+      "id": "p114",
+      "classification": "empty-body display using official title"
+    },
+    {
+      "id": "p115",
+      "classification": "empty-body display using official title"
+    },
+    {
+      "id": "p116",
+      "classification": "empty-body display using official title"
+    },
+    {
+      "id": "p118",
+      "classification": "empty-body display using official title"
+    },
+    {
+      "id": "p119",
+      "classification": "empty-body display using official title"
+    },
+    {
+      "id": "p120",
+      "classification": "empty-body display using official title"
+    },
+    {
+      "id": "p121",
+      "classification": "empty-body display using official title"
+    },
+    {
+      "id": "p122",
+      "classification": "empty-body display using official title"
+    }
+  ],
+  "operative_text_changes": 0,
+  "later_changes_search": "sources/research/search-latest.json",
+  "limitations": [
+    "Current official consolidation plus concrete commencement proof; no claim of independent full chronological reconsolidation of every amendment."
+  ]
+}

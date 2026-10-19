@@ -1,0 +1,102 @@
+{
+  "headings": [
+    {
+      "key": "010",
+      "heading": "Erster Teil — Allgemeine Vorschriften",
+      "doknr": "BJNR012670953BJNG000100303"
+    },
+    {
+      "key": "020",
+      "heading": "Zweiter Teil — Aufbau der Gerichte für Arbeitssachen",
+      "doknr": "BJNR012670953BJNG000200303"
+    },
+    {
+      "key": "020010",
+      "heading": "Erster Abschnitt — Arbeitsgerichte",
+      "doknr": "BJNR012670953BJNG000300303"
+    },
+    {
+      "key": "020020",
+      "heading": "Zweiter Abschnitt — Landesarbeitsgerichte",
+      "doknr": "BJNR012670953BJNG000400303"
+    },
+    {
+      "key": "020030",
+      "heading": "Dritter Abschnitt — Bundesarbeitsgericht",
+      "doknr": "BJNR012670953BJNG000500303"
+    },
+    {
+      "key": "030",
+      "heading": "Dritter Teil — Verfahren vor den Gerichten für Arbeitssachen",
+      "doknr": "BJNR012670953BJNG000600303"
+    },
+    {
+      "key": "030010",
+      "heading": "Erster Abschnitt — Urteilsverfahren",
+      "doknr": "BJNR012670953BJNG000700303"
+    },
+    {
+      "key": "030010010",
+      "heading": "Erster Unterabschnitt — Erster Rechtszug",
+      "doknr": "BJNR012670953BJNG000800303"
+    },
+    {
+      "key": "030010020",
+      "heading": "Zweiter Unterabschnitt — Berufungsverfahren",
+      "doknr": "BJNR012670953BJNG000900303"
+    },
+    {
+      "key": "030010030",
+      "heading": "Dritter Unterabschnitt — Revisionsverfahren",
+      "doknr": "BJNR012670953BJNG001000303"
+    },
+    {
+      "key": "030010040",
+      "heading": "Vierter Unterabschnitt — Beschwerdeverfahren, Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör",
+      "doknr": "BJNR012670953BJNG001101301"
+    },
+    {
+      "key": "030010050",
+      "heading": "Fünfter Unterabschnitt — Wiederaufnahme des Verfahrens",
+      "doknr": "BJNR012670953BJNG001200303"
+    },
+    {
+      "key": "030020",
+      "heading": "Zweiter Abschnitt — Beschlußverfahren",
+      "doknr": "BJNR012670953BJNG001300303"
+    },
+    {
+      "key": "030020010",
+      "heading": "Erster Unterabschnitt — Erster Rechtszug",
+      "doknr": "BJNR012670953BJNG001400303"
+    },
+    {
+      "key": "030020020",
+      "heading": "Zweiter Unterabschnitt — Zweiter Rechtszug",
+      "doknr": "BJNR012670953BJNG001500303"
+    },
+    {
+      "key": "030020030",
+      "heading": "Dritter Unterabschnitt — Dritter Rechtszug",
+      "doknr": "BJNR012670953BJNG001600303"
+    },
+    {
+      "key": "030020040",
+      "heading": "Vierter Unterabschnitt — Beschlußverfahren in besonderen Fällen",
+      "doknr": "BJNR012670953BJNG001700303"
+    },
+    {
+      "key": "040",
+      "heading": "Vierter Teil — Schiedsvertrag in Arbeitsstreitigkeiten",
+      "doknr": "BJNR012670953BJNG001800303"
+    },
+    {
+      "key": "050",
+      "heading": "Fünfter Teil — Übergangs- und Schlußvorschriften",
+      "doknr": "BJNR012670953BJNG001900303"
+    }
+  ],
+  "general_editorial_notes": [
+    "(+++ Textnachweis Geltung ab: 1.1.1981 +++)\n(+++ Maßgaben aufgrund EinigVtr vgl. ArbGG Anhang EV;\n     die Maßgaben sind nicht mehr anzuwenden +++)\n(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:\n          Umsetzung der\n      EURL 2022/2041 (CELEX Nr: 32022L2041) vgl. Bek. v. 17.10.2024 I Nr. 313\n+++)"
+  ]
+}

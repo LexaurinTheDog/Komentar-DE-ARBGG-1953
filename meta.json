@@ -1,0 +1,65 @@
+{
+  "cc": "de",
+  "lang": "de",
+  "repo": "Komentar-DE-ARBGG-1953",
+  "repo_dir": "/Volumes/LaCie/open-commentary/de/Komentar-DE-ARBGG-1953",
+  "title": "Kommentar zum Arbeitsgerichtsgesetz",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-ARBGG-1953/sources/arbgg-canonical.md",
+  "intro_file": "00-einleitung.md",
+  "intro_desc": "Rechtsstand, Methode und Benutzung",
+  "labels": {
+    "text": "Wortlaut der Vorschrift",
+    "chapter": "Kommentarkapitel",
+    "notes": "Amtlicher Hinweis"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "grundlagen",
+      "title": "Allgemeine Vorschriften (§§ 1–13a)"
+    },
+    {
+      "n": 2,
+      "slug": "arbeitsgerichte",
+      "title": "Arbeitsgerichte (§§ 14–32)"
+    },
+    {
+      "n": 3,
+      "slug": "obergerichte",
+      "title": "Landesarbeitsgerichte und Bundesarbeitsgericht (§§ 33–45)"
+    },
+    {
+      "n": 4,
+      "slug": "elektronischer-prozess",
+      "title": "Verfahrensgrundlagen und elektronischer Rechtsverkehr (§§ 46–50a)"
+    },
+    {
+      "n": 5,
+      "slug": "erste-instanz",
+      "title": "Urteilsverfahren erster Instanz (§§ 51–63)"
+    },
+    {
+      "n": 6,
+      "slug": "rechtsmittel",
+      "title": "Berufung, Revision und Beschwerden (§§ 64–79)"
+    },
+    {
+      "n": 7,
+      "slug": "beschlussverfahren",
+      "title": "Beschlussverfahren (§§ 80–100)"
+    },
+    {
+      "n": 8,
+      "slug": "schiedsverfahren",
+      "title": "Schiedsvertrag in Arbeitsstreitigkeiten (§§ 101–110)"
+    },
+    {
+      "n": 9,
+      "slug": "schlussvorschriften",
+      "title": "Übergangs- und Schlussvorschriften (§§ 111–122)"
+    }
+  ],
+  "authoring_date": "2026-10-19",
+  "source_url": "https://www.gesetze-im-internet.de/arbgg/",
+  "legal_version": "Art. 7 G vom 20.05.2026, BGBl. 2026 I Nr. 152; seit 01.10.2026"
+}

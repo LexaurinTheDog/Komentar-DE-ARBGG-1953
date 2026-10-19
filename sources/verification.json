@@ -1,0 +1,184 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/arbgg/ArbGG.xml",
+    "error": "HTTP Error 404: Not Found",
+    "accessed_at": "2026-10-19T14:25:29.058785+00:00",
+    "http_status": 404
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/arbgg/BJNR012670953.xml",
+    "error": "HTTP Error 404: Not Found",
+    "accessed_at": "2026-10-19T14:25:29.294439+00:00",
+    "http_status": 404
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/arbgg/index.html",
+    "accessed_at": "2026-10-19T14:25:30.086594+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "sha256": "bf930b3aef69756e697303641a1b3f93bf53558a53e4653c9fe2f34b56240a6b",
+    "path": "sources/index.html",
+    "version_information": {
+      "official_last_amendment": "Art. 7 G v. 20.5.2026 I Nr. 152",
+      "decisive_date": "2026-10-19",
+      "commencement": "2026-10-01",
+      "commencement_proof": "BGBl. 2026 I Nr. 152 Art. 18 Abs. 1; Art. 7 ist nicht von Ausnahmen der Abs. 2–4 erfasst",
+      "builddate_is_not_commencement_proof": true
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/arbgg/",
+    "accessed_at": "2026-10-19T14:25:33.526430+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "sha256": "bf930b3aef69756e697303641a1b3f93bf53558a53e4653c9fe2f34b56240a6b",
+    "path": "sources/landing.html",
+    "version_information": {
+      "official_last_amendment": "Art. 7 G v. 20.5.2026 I Nr. 152",
+      "decisive_date": "2026-10-19",
+      "commencement": "2026-10-01",
+      "commencement_proof": "BGBl. 2026 I Nr. 152 Art. 18 Abs. 1; Art. 7 ist nicht von Ausnahmen der Abs. 2–4 erfasst",
+      "builddate_is_not_commencement_proof": true
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/arbgg/xml.zip",
+    "accessed_at": "2026-10-19T14:25:46.177711+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "453eba18d24c08523fe3fba3b567ab6cc1949f26c0c6e659c61c584ed9d970e3",
+    "path": "sources/arbgg.zip",
+    "xml": {
+      "path": "sources/arbgg.xml",
+      "sha256": "ee4064238832c74335dd689bd168babb81c323782f9af6ac211d142d28fa12e4",
+      "root": "dokumente"
+    },
+    "version_information": {
+      "official_last_amendment": "Art. 7 G v. 20.5.2026 I Nr. 152",
+      "decisive_date": "2026-10-19",
+      "commencement": "2026-10-01",
+      "commencement_proof": "BGBl. 2026 I Nr. 152 Art. 18 Abs. 1; Art. 7 ist nicht von Ausnahmen der Abs. 2–4 erfasst",
+      "builddate_is_not_commencement_proof": true
+    },
+    "format_validated": "ZIP opens without error; member BJNR012670953.xml parses as dokumente with jurabk ArbGG and expected doknr"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html",
+    "accessed_at": "2026-10-19T14:25:47.636985+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "sha256": "35fc7d821eb4fcb244e2c2f88ba93085d7cffbf1a3306e06b44a59f1eaa5117a",
+    "path": "sources/gesamt.html",
+    "version_information": {
+      "official_last_amendment": "Art. 7 G v. 20.5.2026 I Nr. 152",
+      "decisive_date": "2026-10-19",
+      "commencement": "2026-10-01",
+      "commencement_proof": "BGBl. 2026 I Nr. 152 Art. 18 Abs. 1; Art. 7 ist nicht von Ausnahmen der Abs. 2–4 erfasst",
+      "builddate_is_not_commencement_proof": true
+    }
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-19T14:26:17.992826+00:00",
+    "http_status": 200,
+    "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+    "path": "sources/bgbl-2026-I-152.pdf",
+    "format_validated": "%PDF",
+    "version_information": {
+      "amendment": "Article 7 adds ArbGG § 62(3)",
+      "commencement_clause": "Article 18(1), 2026-10-01",
+      "exceptions": "Article 18(2)–(4) refer only to Articles 16, 2 and 3"
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__752a.html",
+    "accessed_at": "2026-10-19T14:43:38.272362+00:00",
+    "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+    "http_status": null,
+    "http_result": "Not retained by failed client validation; see later successful record for this URL"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__753a.html",
+    "accessed_at": "2026-10-19T14:43:38.272622+00:00",
+    "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+    "http_status": null,
+    "http_result": "Not retained by failed client validation; see later successful record for this URL"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+    "accessed_at": "2026-10-19T14:43:38.272687+00:00",
+    "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+    "http_status": null,
+    "http_result": "Not retained by failed client validation; see later successful record for this URL"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/eggvge/__43.html",
+    "accessed_at": "2026-10-19T14:43:38.272734+00:00",
+    "error": "HTTP Error 404: Not Found",
+    "http_status": 404
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__752a.html",
+    "accessed_at": "2026-10-19T14:45:14.687893+00:00",
+    "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+    "http_status": null,
+    "http_result": "Not retained by failed client validation; see later successful record for this URL"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__753a.html",
+    "accessed_at": "2026-10-19T14:45:14.688145+00:00",
+    "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+    "http_status": null,
+    "http_result": "Not retained by failed client validation; see later successful record for this URL"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+    "accessed_at": "2026-10-19T14:45:14.688210+00:00",
+    "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+    "http_status": null,
+    "http_result": "Not retained by failed client validation; see later successful record for this URL"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/gvgeg/__43.html",
+    "accessed_at": "2026-10-19T14:45:14.688254+00:00",
+    "error": "Client expected-label assertion failed because HTML entities were not yet decoded; preserved response later validated and re-fetched successfully.",
+    "http_status": null,
+    "http_result": "Not retained by failed client validation; see later successful record for this URL"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__752a.html",
+    "accessed_at": "2026-10-19T14:46:21.986276+00:00",
+    "http_status": 200,
+    "path": "sources/zpo-752a.html",
+    "sha256": "72b64697fe6794f8de8fd41e4278ea235e8cdbe232c3aad282b1790d94198ccf",
+    "expected_content": "§ 752a",
+    "format_validated": "HTML with expected provision label"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__753a.html",
+    "accessed_at": "2026-10-19T14:46:21.986501+00:00",
+    "http_status": 200,
+    "path": "sources/zpo-753a.html",
+    "sha256": "7cc0161e8a39f93849b702aeafe5d3c83f31fdd71237e3ec2fbd09e66a78cd29",
+    "expected_content": "§ 753a",
+    "format_validated": "HTML with expected provision label"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+    "accessed_at": "2026-10-19T14:46:21.986562+00:00",
+    "http_status": 200,
+    "path": "sources/urhg-5.html",
+    "sha256": "0d1230ebb389ebdfdd0cb265ac74ee91345d19787520507c4db51cf85e375524",
+    "expected_content": "§ 5",
+    "format_validated": "HTML with expected provision label"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/gvgeg/__43.html",
+    "accessed_at": "2026-10-19T14:46:21.986604+00:00",
+    "http_status": 200,
+    "path": "sources/eggvg-43.html",
+    "sha256": "5c62e9d90a08caf7f4a9c6ca6d27c2efd3ad8a0207552a6fae70761da8022117",
+    "expected_content": "§ 43",
+    "format_validated": "HTML with expected provision label"
+  }
+]
