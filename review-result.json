@@ -1,0 +1,92 @@
+{
+  "complete": false,
+  "units_reviewed": 147,
+  "unresolved_blockers": [
+    "Final build and strict validation pending"
+  ],
+  "findings": [
+    {
+      "unit": "p22",
+      "kind": "clarity",
+      "file": "commentary/part-02.md",
+      "before": "Die Arbeitgeberbank ist nicht auf natürliche Personen beschränkt, die im Augenblick der Berufung selbst Arbeitnehmer beschäftigen.",
+      "after": "Für die Arbeitgeberbank kommen auch natürliche Personen in Betracht, die im Augenblick der Berufung nicht selbst Arbeitnehmer beschäftigen. Die juristische Person wird dadurch nicht selbst zur Richterin; berufen wird die jeweils qualifizierte natürliche Person.",
+      "resolved": true
+    },
+    {
+      "unit": "p24",
+      "kind": "substantive-precision",
+      "file": "commentary/part-02.md",
+      "before": "bis zu langjähriger Vorbefassung und besonders erschwerenden wichtigen Gründen.",
+      "after": "bis zur früheren ehrenamtlichen Tätigkeit bei einem Gericht für Arbeitssachen und besonders erschwerenden wichtigen Gründen. Nummer 4 verlangt eine solche Tätigkeit innerhalb der zehn der Berufung vorhergehenden Jahre, aber keine zehnjährige oder sonstige Mindestdauer dieser Tätigkeit.",
+      "resolved": true
+    },
+    {
+      "unit": "p89",
+      "kind": "coverage",
+      "file": "commentary/part-07.md",
+      "before": "Fristen folgen aus den über § 87 übernommenen Regeln.",
+      "after": "Über § 87 Absatz 2 und § 66 Absatz 1 beträgt die Einlegungsfrist einen Monat und die Begründungsfrist zwei Monate. Beide beginnen mit Zustellung der vollständig abgefassten Entscheidung, spätestens mit Ablauf von fünf Monaten nach Verkündung; die Belehrungsregel des § 9 Absatz 5 ist daneben zu beachten. Nur die Begründungsfrist ist nach den übernommenen Voraussetzungen einmal verlängerbar.",
+      "resolved": true
+    },
+    {
+      "unit": "p94",
+      "kind": "coverage",
+      "file": "commentary/part-07.md",
+      "before": "Die Fristen ergeben sich aus dem über § 92 übernommenen Revisionsregime; der Verweis auf § 74 Absatz 2 ergänzt die Behandlung einschließlich einer möglichen Zulässigkeitsverwerfung.",
+      "after": "Über § 92 Absatz 2 und § 74 Absatz 1 gilt ein Monat für die Einlegung und gelten zwei Monate für die Begründung. Beide Fristen beginnen mit Zustellung der vollständig abgefassten Entscheidung, spätestens mit Ablauf von fünf Monaten nach Verkündung; § 9 Absatz 5 ist bei der Belehrung mitzulesen. Die Begründungsfrist kann einmal um bis zu einen weiteren Monat verlängert werden. Nach erfolgreicher Nichtzulassungsbeschwerde ist der besondere Begründungsbeginn aus § 92a in Verbindung mit § 72a Absatz 6 maßgeblich. Der Verweis auf § 74 Absatz 2 ergänzt die Behandlung einschließlich einer möglichen Zulässigkeitsverwerfung.",
+      "resolved": true
+    },
+    {
+      "unit": "p98",
+      "kind": "substantive",
+      "file": "commentary/part-08.md",
+      "before": "Bei ausgesetztem Leistungsanspruch einer gemeinsamen Einrichtung kann auf deren Antrag eine vorläufige Leistungspflicht entstehen. Sie unterbleibt insbesondere bei offensichtlicher Unwirksamkeit nach bisherigem Stand oder glaubhaft gemachtem nicht zu ersetzendem Nachteil. Änderung beziehungsweise Aufhebung wegen der bezeichneten neuen oder unverschuldet nicht vorgebrachten Umstände bleibt möglich; die spätere Entscheidung hat weitere gesetzliche Folgen.",
+      "after": "Setzt ein Gericht für Arbeitssachen einen Rechtsstreit über den Leistungsanspruch einer gemeinsamen Einrichtung deshalb aus, muss es auf deren Antrag den Beklagten zur vorläufigen Leistung verpflichten. Das ist bei erfüllten Voraussetzungen eine gebundene Entscheidung. Die Anordnung unterbleibt, wenn das Gericht den Normerstreckungsakt nach bisherigem Sach- und Streitstand für offensichtlich unwirksam hält oder der Beklagte einen nicht zu ersetzenden Nachteil glaubhaft macht. Die Entscheidung ist selbst Vollstreckungstitel und unterliegt den für die Aussetzung geltenden Verfahrensregeln. Änderung beziehungsweise Aufhebung wegen veränderter oder ursprünglich ohne Verschulden nicht geltend gemachter Umstände bleibt auch außerhalb eines Beschwerdeverfahrens möglich; für die Entscheidung nach Wiederaufnahme des ausgesetzten Leistungsprozesses verweist das Gesetz auf § 717 ZPO.",
+      "resolved": true
+    },
+    {
+      "unit": "p99",
+      "kind": "clarity",
+      "file": "commentary/part-08.md",
+      "before": "Für die gerichtliche Statusklärung ist zunächst die Antragsberechtigung als Tarifvertragspartei und der konkrete betriebliche Bezug festzustellen.",
+      "after": "Für die gerichtliche Klärung der Tarifanwendbarkeit sind zunächst die Antragsberechtigung als Tarifvertragspartei und der konkrete betriebliche Bezug festzustellen. Die Tariffähigkeit einer Vereinigung ist ein anderer Verfahrensgegenstand nach § 97.",
+      "resolved": true
+    },
+    {
+      "unit": "p103",
+      "kind": "clarity",
+      "file": "commentary/part-08.md",
+      "before": "Die zwingende Ausschlussregel für Personen ohne die richterspruchbedingt verlorene Fähigkeit zur Bekleidung öffentlicher Ämter bildet eine weitere personelle Schranke.",
+      "after": "Personen, die infolge Richterspruchs die Fähigkeit zur Bekleidung öffentlicher Ämter nicht besitzen, dürfen dem Schiedsgericht nicht angehören. Dieser zwingende Ausschluss bildet eine weitere personelle Schranke.",
+      "resolved": true
+    },
+    {
+      "unit": "p105",
+      "kind": "substantive-precision",
+      "file": "commentary/part-08.md",
+      "before": "Absatz 2 verlangt grundsätzlich eine mündliche Anhörung.",
+      "after": "Absatz 2 verlangt eine mündliche Anhörung. Der Vertragsvorbehalt im letzten Satz betrifft die Vertretungsregeln und erlaubt für sich genommen keinen Verzicht auf die mündliche Anhörung.",
+      "resolved": true
+    },
+    {
+      "unit": "p111",
+      "kind": "substantive",
+      "file": "commentary/part-09.md",
+      "before": "Besteht ein einschlägiger Ausschuss, muss seiner mündlichen Verhandlung nach dem Gesetz die Klage vorausgehen.",
+      "after": "Besteht ein einschlägiger Ausschuss, muss der Klage dessen Verhandlung vorausgehen; der Ausschuss hat die Parteien dabei mündlich zu hören. Erst das Ausschussverfahren, dann die Klage: Eine unmittelbar erhobene Klage ersetzt die vorgeschaltete Verhandlung nicht.",
+      "resolved": true
+    },
+    {
+      "unit": "p113",
+      "kind": "clarity",
+      "file": "commentary/part-09.md",
+      "before": "Die Bundesregierung sollte dem Bundestag bis 8. September 2020 berichten und eine Einschätzung zur Fortgeltung abgeben.",
+      "after": "Die Bundesregierung war verpflichtet, dem Bundestag bis 8. September 2020 zu berichten und eine Einschätzung zur Fortgeltung abzugeben.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Selective case-law coverage; no external professional approval."
+  ]
+}

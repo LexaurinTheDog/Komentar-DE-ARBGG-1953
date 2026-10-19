@@ -203,6 +203,58 @@
       "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e",
       "format_validated": "HTML error body; deliberately rejected as statutory XML",
       "used_as_law_source": false
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/xml.zip",
+      "accessed_at": "2026-10-19T14:51:17.741984+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/second-pass/arbgg-current.zip",
+      "sha256": "453eba18d24c08523fe3fba3b567ab6cc1949f26c0c6e659c61c584ed9d970e3",
+      "xml_sha256": "ee4064238832c74335dd689bd168babb81c323782f9af6ac211d142d28fa12e4",
+      "canonical_xml_unchanged": true,
+      "format_validated": "ZIP CRC and XML root/doknr/jurabk",
+      "version_information": {
+        "decisive_date": "2026-10-19",
+        "official_last_amendment": "Art. 7 G v. 20.5.2026 I Nr. 152",
+        "effective_since": "2026-10-01",
+        "commencement_proof": "sources/bgbl-2026-I-152.pdf, Art. 7 and 18(1); independently read in second pass",
+        "same_consolidation_as_authoring_source": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/",
+      "accessed_at": "2026-10-19T14:51:19.728013+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/second-pass/arbgg-index.html",
+      "sha256": "bf930b3aef69756e697303641a1b3f93bf53558a53e4653c9fe2f34b56240a6b",
+      "format_validated": "HTML with expected law or docket",
+      "version_information": {
+        "decisive_date": "2026-10-19",
+        "official_last_amendment": "Art. 7 G v. 20.5.2026 I Nr. 152",
+        "effective_since": "2026-10-01",
+        "commencement_proof": "sources/bgbl-2026-I-152.pdf, Art. 7 and 18(1); independently read in second pass",
+        "same_consolidation_as_authoring_source": true
+      }
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azb-18-22/",
+      "accessed_at": "2026-10-19T14:51:21.048744+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "path": "sources/second-pass/bag-10-azb-18-22.html",
+      "sha256": "404ddc6ea06b20b918496eec8296bddbfc1c5a6d9f9bd2d60fa9395c6dad8aa7",
+      "format_validated": "HTML with expected law or docket"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azb-23-20/",
+      "accessed_at": "2026-10-19T14:51:21.524947+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "path": "sources/second-pass/bag-5-azb-23-20.html",
+      "sha256": "afddc12f96c0c7cdc4cef99bacf5937e51e228c08ba6a08c293b2b481ba738b1",
+      "format_validated": "HTML with expected law or docket"
     }
   ],
   "case_http_checks": [
@@ -219,6 +271,24 @@
       "http_status": 200,
       "path": "cases/bag-5-azb-23-20-official.html",
       "sha256": "afddc12f96c0c7cdc4cef99bacf5937e51e228c08ba6a08c293b2b481ba738b1"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azb-18-22/",
+      "accessed_at": "2026-10-19T14:51:21.048744+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "path": "sources/second-pass/bag-10-azb-18-22.html",
+      "sha256": "404ddc6ea06b20b918496eec8296bddbfc1c5a6d9f9bd2d60fa9395c6dad8aa7",
+      "format_validated": "HTML with expected law or docket"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azb-23-20/",
+      "accessed_at": "2026-10-19T14:51:21.524947+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "path": "sources/second-pass/bag-5-azb-23-20.html",
+      "sha256": "afddc12f96c0c7cdc4cef99bacf5937e51e228c08ba6a08c293b2b481ba738b1",
+      "format_validated": "HTML with expected law or docket"
     }
   ],
   "artifacts": [
@@ -308,6 +378,46 @@
       "sha256": "c5eeae1b990b1d605509c2924f47574e66f0642815d50802afc18e37324dbed2"
     },
     {
+      "path": "sources/second-pass/arbgg-current.xml",
+      "bytes": 202152,
+      "sha256": "ee4064238832c74335dd689bd168babb81c323782f9af6ac211d142d28fa12e4"
+    },
+    {
+      "path": "sources/second-pass/arbgg-current.zip",
+      "bytes": 40671,
+      "sha256": "453eba18d24c08523fe3fba3b567ab6cc1949f26c0c6e659c61c584ed9d970e3"
+    },
+    {
+      "path": "sources/second-pass/arbgg-index.html",
+      "bytes": 32076,
+      "sha256": "bf930b3aef69756e697303641a1b3f93bf53558a53e4653c9fe2f34b56240a6b"
+    },
+    {
+      "path": "sources/second-pass/bag-10-azb-18-22.html",
+      "bytes": 141907,
+      "sha256": "404ddc6ea06b20b918496eec8296bddbfc1c5a6d9f9bd2d60fa9395c6dad8aa7"
+    },
+    {
+      "path": "sources/second-pass/bag-5-azb-23-20.html",
+      "bytes": 133329,
+      "sha256": "afddc12f96c0c7cdc4cef99bacf5937e51e228c08ba6a08c293b2b481ba738b1"
+    },
+    {
+      "path": "sources/second-pass/bgbl-2026-I-152-reextracted.txt",
+      "bytes": 37646,
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652"
+    },
+    {
+      "path": "sources/second-pass/gii-index-firecrawl.md",
+      "bytes": 21664,
+      "sha256": "10da42fafcfd19a0475f8507bb6133e7dc6bd6f247774a969a4743bd7192793f"
+    },
+    {
+      "path": "sources/second-pass/verification.json",
+      "bytes": 2391,
+      "sha256": "e389867a667c567b88085ee6d1fac2cfbd6add3f8ec88df0dca1d41c6699800b"
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 3267,
       "sha256": "c26fcbf0dd38a242519a0a0d3eeaed5212dc8d35517e346fac8118be198952f7"
@@ -324,8 +434,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 9284,
-      "sha256": "8c0c9a9b2176470b73ef653fcc0ca04b2176287a699484335883534dac85e8d8"
+      "bytes": 11672,
+      "sha256": "a02794e37be65fa6b7013be4dc80850dd7829a416ccaa9b565edbe047fb1bfcd"
     },
     {
       "path": "sources/version-assessment.json",
@@ -398,9 +508,19 @@
       "sha256": "3ebcbfea1f9c4f37302151b59ed0bbc1a014110502e8f61d3c0e86a17adaff59"
     },
     {
+      "path": "cases/second-pass-claim-support.json",
+      "bytes": 2819,
+      "sha256": "bccb5d50922e0640da7f44edcb6e9b96953229e30143ce49be5a04d3e19fb959"
+    },
+    {
+      "path": "cases/second-pass-text-check.json",
+      "bytes": 8778,
+      "sha256": "33b4357ae7eb509c971218316723f266efdae91bce0abf894eb46d7b496977a0"
+    },
+    {
       "path": "cases/verification.json",
-      "bytes": 596,
-      "sha256": "e7c58bb9f1ca600154fece710d75a60d6f5711f29cf66ef3844aa38dbbab7e5f"
+      "bytes": 1417,
+      "sha256": "8f39e54dcecf17cd2ae22a8b5b5850587427c43e0019a0804deecaf98b2554f9"
     }
   ],
   "note": "Hashes cover preserved raw and derived source files; validation outputs and manifest itself excluded to avoid circular hashes."

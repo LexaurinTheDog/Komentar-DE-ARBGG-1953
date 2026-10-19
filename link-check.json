@@ -75,5 +75,63 @@
   ],
   "local_links_report": "audit-report.json",
   "external_full_corpus_recheck": false,
-  "note": "Source links reuse actual fetch evidence, author project link additionally checked by HEAD. Original historical source metadata URLs not exhaustively retested."
+  "note": "Source links reuse actual fetch evidence, author project link additionally checked by HEAD. Original historical source metadata URLs not exhaustively retested.",
+  "second_pass": {
+    "official_source_rechecks": [
+      {
+        "url": "https://www.gesetze-im-internet.de/arbgg/xml.zip",
+        "accessed_at": "2026-10-19T14:51:17.741984+00:00",
+        "http_status": 200,
+        "content_type": "application/zip",
+        "path": "sources/second-pass/arbgg-current.zip",
+        "sha256": "453eba18d24c08523fe3fba3b567ab6cc1949f26c0c6e659c61c584ed9d970e3",
+        "xml_sha256": "ee4064238832c74335dd689bd168babb81c323782f9af6ac211d142d28fa12e4",
+        "canonical_xml_unchanged": true,
+        "format_validated": "ZIP CRC and XML root/doknr/jurabk",
+        "version_information": {
+          "decisive_date": "2026-10-19",
+          "official_last_amendment": "Art. 7 G v. 20.5.2026 I Nr. 152",
+          "effective_since": "2026-10-01",
+          "commencement_proof": "sources/bgbl-2026-I-152.pdf, Art. 7 and 18(1); independently read in second pass",
+          "same_consolidation_as_authoring_source": true
+        }
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/arbgg/",
+        "accessed_at": "2026-10-19T14:51:19.728013+00:00",
+        "http_status": 200,
+        "content_type": "text/html",
+        "path": "sources/second-pass/arbgg-index.html",
+        "sha256": "bf930b3aef69756e697303641a1b3f93bf53558a53e4653c9fe2f34b56240a6b",
+        "format_validated": "HTML with expected law or docket",
+        "version_information": {
+          "decisive_date": "2026-10-19",
+          "official_last_amendment": "Art. 7 G v. 20.5.2026 I Nr. 152",
+          "effective_since": "2026-10-01",
+          "commencement_proof": "sources/bgbl-2026-I-152.pdf, Art. 7 and 18(1); independently read in second pass",
+          "same_consolidation_as_authoring_source": true
+        }
+      },
+      {
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azb-18-22/",
+        "accessed_at": "2026-10-19T14:51:21.048744+00:00",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "path": "sources/second-pass/bag-10-azb-18-22.html",
+        "sha256": "404ddc6ea06b20b918496eec8296bddbfc1c5a6d9f9bd2d60fa9395c6dad8aa7",
+        "format_validated": "HTML with expected law or docket"
+      },
+      {
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azb-23-20/",
+        "accessed_at": "2026-10-19T14:51:21.524947+00:00",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "path": "sources/second-pass/bag-5-azb-23-20.html",
+        "sha256": "afddc12f96c0c7cdc4cef99bacf5937e51e228c08ba6a08c293b2b481ba738b1",
+        "format_validated": "HTML with expected law or docket"
+      }
+    ],
+    "local_links": "All local Markdown links checked by _audit.py after rebuild; no broken links.",
+    "external_full_corpus_recheck": false
+  }
 }

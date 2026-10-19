@@ -12,5 +12,23 @@
     "http_status": 200,
     "path": "cases/bag-5-azb-23-20-official.html",
     "sha256": "afddc12f96c0c7cdc4cef99bacf5937e51e228c08ba6a08c293b2b481ba738b1"
+  },
+  {
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azb-18-22/",
+    "accessed_at": "2026-10-19T14:51:21.048744+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "path": "sources/second-pass/bag-10-azb-18-22.html",
+    "sha256": "404ddc6ea06b20b918496eec8296bddbfc1c5a6d9f9bd2d60fa9395c6dad8aa7",
+    "format_validated": "HTML with expected law or docket"
+  },
+  {
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azb-23-20/",
+    "accessed_at": "2026-10-19T14:51:21.524947+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "path": "sources/second-pass/bag-5-azb-23-20.html",
+    "sha256": "afddc12f96c0c7cdc4cef99bacf5937e51e228c08ba6a08c293b2b481ba738b1",
+    "format_validated": "HTML with expected law or docket"
   }
 ]

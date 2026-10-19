@@ -24,6 +24,6 @@ Die beiden Fallkarten beruhen auf vollständig gelesenen amtlichen BAG-Entscheid
 
 Für den übrigen Bestand enthält diese Fassung keine vollständige Rechtsprechungsrecherche. Auch die Auslegung aller verwiesenen Fachgesetze, europäischer Instrumente, Landesverordnungen und Geschäftsverteilungspläne ist nicht Gegenstand eines vollständigen Nebenkommentars. Im konkreten Fall müssen deren einschlägige aktuelle Fassungen und tatsächliche Anknüpfungspunkte zusätzlich geprüft werden. Die vorliegende Bearbeitung enthält keine Behauptung einer externen anwaltlichen Freigabe.
 
-Die technische Prüfung kontrolliert Wortlaut, Kennungen, Kommentarabdeckung, lokale Links und exakte Textwiederholungen. Sie beweist keine juristische Fehlerfreiheit. Der [Prüfbericht](REVIEW.md) kennzeichnet die noch ausstehende unabhängige zweite Durchsicht.
+Die technische Prüfung kontrolliert Wortlaut, Kennungen, Kommentarabdeckung, lokale Links und exakte Textwiederholungen. Sie beweist keine juristische Fehlerfreiheit. Der [Prüfbericht](REVIEW.md) dokumentiert die abgeschlossene zweite Durchsicht durch einen frischen Bearbeitungsprozess einschließlich konkreter Korrekturen. Alle 147 Einheiten und die beiden verwendeten Entscheidungen wurden dabei gelesen; der Bericht beansprucht keine externe anwaltliche Freigabe.
 
 Ursprüngliche Kommentierung und Redaktion: Copyright © 2026 Vojtěch Říha, Apache-2.0. Amtliche Texte sind als solche gesondert dokumentiert. Der Entwurf dient der allgemeinen Orientierung und ersetzt keine fallbezogene Rechtsberatung.

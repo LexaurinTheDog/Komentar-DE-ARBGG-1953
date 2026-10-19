@@ -1,0 +1,328 @@
+[
+  {
+    "case": "10-azb-18-22",
+    "paragraphs": [
+      {
+        "rn": 1,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 2,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 3,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 4,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 5,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 6,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 7,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 8,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 9,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 10,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 11,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 12,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 13,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 14,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 15,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 16,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 17,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 18,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 19,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 20,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 21,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 22,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 23,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 24,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 25,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 26,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 27,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 28,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 29,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 30,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 31,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 32,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 33,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 34,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 35,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 36,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 37,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 38,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 39,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 40,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 41,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 42,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 43,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 44,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      }
+    ],
+    "full_text_read_in_second_pass": true,
+    "md_sha256": "8421ea38ede2eedc90dcf2f063c83efa86acf6ce0f7f901558387772d71fc385",
+    "fresh_html_sha256": "404ddc6ea06b20b918496eec8296bddbfc1c5a6d9f9bd2d60fa9395c6dad8aa7",
+    "method": "Every numbered reasons paragraph of local national corpus checked against the freshly fetched primary BAG HTML after alphanumeric normalization; legal meaning read separately. This normalization comparison is not a substitute for semantic review."
+  },
+  {
+    "case": "5-azb-23-20",
+    "paragraphs": [
+      {
+        "rn": 1,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 2,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 3,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 4,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 5,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 6,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 7,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 8,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 9,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 10,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 11,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 12,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 13,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 14,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 15,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 16,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 17,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 18,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 19,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 20,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 21,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 22,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 23,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 24,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 25,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 26,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 27,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 28,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 29,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 30,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 31,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 32,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      },
+      {
+        "rn": 33,
+        "normalized_full_paragraph_in_fresh_official_html": true
+      }
+    ],
+    "full_text_read_in_second_pass": true,
+    "md_sha256": "288c0b3ebe7044175ee10a857524648a3ceb1389e442edcd1e2981be97790689",
+    "fresh_html_sha256": "afddc12f96c0c7cdc4cef99bacf5937e51e228c08ba6a08c293b2b481ba738b1",
+    "method": "Every numbered reasons paragraph of local national corpus checked against the freshly fetched primary BAG HTML after alphanumeric normalization; legal meaning read separately. This normalization comparison is not a substitute for semantic review."
+  }
+]

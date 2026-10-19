@@ -1,0 +1,1331 @@
+{
+  "review_date": "2026-10-19",
+  "review_type": "Fresh-process substantive second pass; no external professional approval",
+  "method": "All commentary and corresponding statutory units read in manageable batches; units 0–146 inclusive. Focus notes record the actual semantic comparisons, not a length-based quality claim. Final commentary hashes tie this ledger to the corrected text.",
+  "statutory_xml_sha256": "ee4064238832c74335dd689bd168babb81c323782f9af6ac211d142d28fa12e4",
+  "units": [
+    {
+      "id": "p1",
+      "reviewed": true,
+      "focus": "Gerichtszweig und drei Instanzen ohne Anspruch auf drei Sachentscheidungen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE002000303",
+      "commentary_sha256": "3a6e5c74bb687781a4b89b2090a0736d3869fdf95cbd726452af6100d0575a05",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p2",
+      "reviewed": true,
+      "focus": "Ausschließliche und Zusammenhangszuständigkeit, enge Vergütungstatbestände, Organvereinbarung und Verfahrensart getrennt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE002109125",
+      "commentary_sha256": "3fc3cb2cc6d6c6d65d946917a38e6f286e2ad4c3b60efdf430eeca26cc5141a1",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p2a",
+      "reviewed": true,
+      "focus": "Katalog einschließlich 3g/3h, Ausnahmen und besondere Statusverfahren gegen §§ 97–100 abgeglichen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE002219126",
+      "commentary_sha256": "e58396fb485214f0733c46f944e37cfa119dbf7a38d9cd5d40590be501a004a1",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p3",
+      "reviewed": true,
+      "focus": "Rechtsnachfolge von gesetzlicher Prozessführungsbefugnis und materieller Berechtigung getrennt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE002300303",
+      "commentary_sha256": "f9b74a7b07d3ddae259a10ecb4045e5df8f3c3c07f83a617ac892541bca99a80",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p4",
+      "reviewed": true,
+      "focus": "Schiedsausschluss nur nach §§ 101–110, keine freie individualvertragliche Schiedsklausel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE002400303",
+      "commentary_sha256": "15ac21778df77a95a78cb2d1d216834526ace21ebaad1582d2bd6ca800d5f7cb",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p5",
+      "reviewed": true,
+      "focus": "Prozessualer Arbeitnehmerbegriff, Organvertreter, Beamte sowie kumulative Handelsvertretermerkmale und 1.000-Euro-Grenze.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE002506311",
+      "commentary_sha256": "c1e8aea790e1415ea04c171e483c0080ee7745bf42593a810129d6d231161176",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p6",
+      "reviewed": true,
+      "focus": "Grundbesetzung und zulässige Vorsitzendenhandlungen getrennt; weggefallener Absatz 2 nicht ergänzt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE002600303",
+      "commentary_sha256": "60025b528c4f6ab30c6a979dcd4f21c78d8955a696411f132dca89b3808b29f1",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p6a",
+      "reviewed": true,
+      "focus": "Einvernehmen und Benehmen bei kleinen Gerichten, Konfliktzuständigkeit und Mehrfachzugehörigkeit zu Spruchkörpern.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE002700303",
+      "commentary_sha256": "50c9f9846576d90ecaf3ab18248e4b8f7d68cb766b52677d3cd39af8d53ea043",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p7",
+      "reviewed": true,
+      "focus": "Geschäftsstelle, Ressortbeteiligung und institutionelle Finanzierung von Parteikosten getrennt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE002806311",
+      "commentary_sha256": "02043a4b9fa95de815b2cc2575d12a3fea8ec213de7783a78e30a6cda73f2141",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p8",
+      "reviewed": true,
+      "focus": "Berufung/Revision von Beschwerde/Rechtsbeschwerde unterschieden; gesetzliche Sondererstinstanzen offengehalten.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE002901305",
+      "commentary_sha256": "dcca95e90f1fb9c70ef02add519d8c6d23ee93146cd1304a9e57eb20dbb98e94",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p9",
+      "reviewed": true,
+      "focus": "Beschleunigung, Video-Maßgaben und Rechtsmittelbelehrung einschließlich Jahresgrenze und Ausnahmen gelesen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE003004125",
+      "commentary_sha256": "8aeab215a9e46933bd20c1a6d50b7fa95e671184831fbc1213d901e28266fa54",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p10",
+      "reviewed": true,
+      "focus": "Parteifähigkeit, Antragsbefugnis, Vertretung und materielle Beteiligung nicht gleichgesetzt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE003114125",
+      "commentary_sha256": "63f7a1b2a91bd76b377816e8061a8190e650406e90137186f0c1d3bb228da908",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p11",
+      "reviewed": true,
+      "focus": "Vertretergruppen, Wirksamkeit bis Zurückweisung, höhere Instanzen und bloßer Beistand unterschieden; BAG-Bezug geprüft.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE003205301",
+      "commentary_sha256": "f08b65cc7bf555b2979ef8f79eac75e60da243fff60f15f4e136ad541dc57805",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p11a",
+      "reviewed": true,
+      "focus": "PKH-Verweisung, ausdrückliche Ausnahme und Video-Erörterung nicht mit automatischer Bewilligung verwechselt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE003307125",
+      "commentary_sha256": "c9e529125c29b549e018e9fed7398014a8bba67e186d7633ff64a4522216767b",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p12",
+      "reviewed": true,
+      "focus": "Beitreibung öffentlicher Kosten von privater Urteilsvollstreckung getrennt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE003411311",
+      "commentary_sha256": "5bfeebbfcc5a68f1df66c50bc92e438fb6789100d573b76f44d32e866365843c",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p12a",
+      "reviewed": true,
+      "focus": "Erstinstanzlicher Erstattungsausschluss, Verweisungsausnahme, Hinweis und Quotelung höherer Instanzen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE003503311",
+      "commentary_sha256": "7059774f0e5a676fc59a0b6344a25d7a3997cbad59d2c71c601031df57b81743",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p13",
+      "reviewed": true,
+      "focus": "Örtlicher Rechtshilfeauftrag, Hauptsachezuständigkeit und Video-Beweis getrennt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE003601307",
+      "commentary_sha256": "e42e3741010fbd1a004f4aae68a62815e283da043272795220580d721691dd9c",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p13a",
+      "reviewed": true,
+      "focus": "EU-Kooperation mit spezifischen Ersetzungen durch §§ 50a/58, keine allgemeine internationale Zuständigkeitsregel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE016402125",
+      "commentary_sha256": "3c53867dfe723e0d5e7d2805867b898dca2a4dc20dfa1e8cfdc32a4e1a3ff2f4",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p14",
+      "reviewed": true,
+      "focus": "Gesetzesvorbehalt, länderübergreifende Organisation, Gerichtstage und Anhörung ohne Zustimmungsrecht.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE003702305",
+      "commentary_sha256": "2be56e5cb0b7cf6a812bc2787aa07010e37c78a2131e61446bf85cf0bcc7cd93",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p15",
+      "reviewed": true,
+      "focus": "Aufsicht, Verbandsanhörung und zweistufige Verordnungsdelegation ohne Rechtsprechungsweisung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE003802305",
+      "commentary_sha256": "e4b3126539fa10a1c8fa43e98ac1cb0f79ca053b6fc117388d840cc9ec7e346f",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p16",
+      "reviewed": true,
+      "focus": "Parität des Gerichts und einzelner Kammer; Ersatzperson muss richtiger Herkunftsgruppe entsprechen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE003900303",
+      "commentary_sha256": "71859da5f87bda4aa9b4a966b7117ed8b03886ee99e791c77fc616213d5abfec",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p17",
+      "reviewed": true,
+      "focus": "Kammerzahl, Fachkammerverordnung, Bezirksausdehnung und Übergang anhängiger Verfahren.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE004003125",
+      "commentary_sha256": "ba303c16502a6f8a891e0c14d6af843a6c529a7b604da7165ded318396e679e7",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p18",
+      "reviewed": true,
+      "focus": "Drittelparität des Beratungsausschusses, weiteres Richteramt, weggefallene Absätze und Proberichter.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE004102305",
+      "commentary_sha256": "4bd9b514a43351156672c3dae220d9c1d76c81cf5ef95d7c932ccd397101cd11",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p19",
+      "reviewed": true,
+      "focus": "Ständige von vorübergehender Vertretung, Zweimonatsgrenze und schriftlich begründeter Eilzuständigkeit getrennt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE004200303",
+      "commentary_sha256": "97633d5b6dac212cf378ba8eebbb680f2245a2524997c7a5e6f4a37c104c59ec",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p20",
+      "reviewed": true,
+      "focus": "Fünfjährige Berufung, Vorschlagslisten und Minderheitenberücksichtigung; kein automatischer Anspruch aus Listenplatz.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE004302305",
+      "commentary_sha256": "3b31ce66028f06b7b60a03f7d62f8af1a812e502679f675659032a80b01a7a11",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p21",
+      "reviewed": true,
+      "focus": "Alter/Bezirk, Ausschluss- und Solltatbestände, Mehrfachamt, Entbindung und Ruhestandsprivileg.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE004404160",
+      "commentary_sha256": "d9c478f50b17bf1b42c8cff69dbf05b7577fc342c0ce09a9e7251a95ee703e5b",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p22",
+      "reviewed": true,
+      "focus": "Organ-, Leitungs-, öffentliche und Verbandsfunktionen geprüft; natürliche Richterperson ausdrücklich klargestellt.",
+      "corrected": true,
+      "source_doknr": "BJNR012670953BJNE004500303",
+      "commentary_sha256": "402aae6d22cf0472fd16e644e9b22bf9eebd076fc23b5d30ee5886a82bd2f978",
+      "result": "resolved"
+    },
+    {
+      "id": "p23",
+      "reviewed": true,
+      "focus": "Arbeitslosigkeit und befugte Organisationsangehörige einschließlich Rechtsschutzgesellschaften.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE004601307",
+      "commentary_sha256": "60bd1d204dbbc6a51710dc2d64922c39e90a170f55818d6172466a73b80b109e",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p24",
+      "reviewed": true,
+      "focus": "Ablehnung/Niederlegung und Entscheidung nach § 20; Nummer 4 verlangt Tätigkeit innerhalb zehn Jahren, keine Mindestdauer.",
+      "corrected": true,
+      "source_doknr": "BJNR012670953BJNE004704301",
+      "commentary_sha256": "73ed20e203c819cd2f8a9906475995e7e70cf7e7b8dbfab16cb37e3ef06918c9",
+      "result": "resolved"
+    },
+    {
+      "id": "p25",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE004800303",
+      "commentary_sha256": "45177b48f50edcc4106599dd52f1bfec3613471ba6966350df92e20bd04fe9e4",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p26",
+      "reviewed": true,
+      "focus": "Benachteiligungsverbot für jedermann und Strafrahmen von arbeitsrechtlichen Anspruchsfolgen getrennt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE004900303",
+      "commentary_sha256": "e45a3a2df56ff8e02716278bab84882f8c77a36ceaa26c490043f8a1bf66cbae",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p27",
+      "reviewed": true,
+      "focus": "Grobe Amtspflichtverletzung, Antrag, vorbestimmte LAG-Kammer und Anhörungsverfahren.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE005002305",
+      "commentary_sha256": "2d10b8bca759ad0f213abf1688a5e5a33d408bc352333c6af928b96b447eb406",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p28",
+      "reviewed": true,
+      "focus": "Ordnungsgeld, genügende Entschuldigung und Anhörung vor dem Antrag, keine Sanktionskompetenz des Vorsitzenden allein.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE005100303",
+      "commentary_sha256": "b0d08e1354d0f9c6efaa1fc4ab15dd2b7f68b00a2cbf2575a78851727dc24dbb",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p29",
+      "reviewed": true,
+      "focus": "Schwelle mehrerer Kammern, getrennte Wahl und vorherige Anhörung ohne Entscheidungsbefugnis im Prozess.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE005200303",
+      "commentary_sha256": "e4705988edc4ec0ba5252ee0c5b166c79762d71b26c7a14f2e2cbd1e70a0f87e",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p30",
+      "reviewed": true,
+      "focus": "Soll-Herkunft, zwingender Ausschluss bestimmter leitender Angestellter und bezirksübergreifende Herkunft.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE005300303",
+      "commentary_sha256": "75d19c042148c4a6be99434e1339bfa93911f2ed3b1e44fd8aad8a0594c2b18f",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p31",
+      "reviewed": true,
+      "focus": "Vorherige Listenreihenfolge und Hilfsliste statt fallbezogener Auswahl nach Abstimmungserwartung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE005400303",
+      "commentary_sha256": "8e5815b286859335c123ecf3f0f74885aa3570902ff1bdf697651d27e5d3cf32",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p32",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE005500303",
+      "commentary_sha256": "01380e9f3d4b392d6caf7cd297f0ef9d25dc07ccd2c86223b6b300efb4b83646",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p33",
+      "reviewed": true,
+      "focus": "Übernahme des § 14 Absatz 2–5 und Organisationsänderung ohne automatische Rechtsmittelzulassung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE005600303",
+      "commentary_sha256": "503e98b81cd87f44e48af948dd9a7db2be9af38ab26d003d8470e36aabad343c",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p34",
+      "reviewed": true,
+      "focus": "Landesaufsicht und Delegation von richterlicher Geschäftsverteilung getrennt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE005703310",
+      "commentary_sha256": "5fb137469ffb447534385747a57feb1ca074ae592f85a4806698263b6cc123c0",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p35",
+      "reviewed": true,
+      "focus": "Dreierkammer mit beiden ehrenamtlichen Gruppen auch in zweiter Instanz und besondere Ausnahmen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE005801307",
+      "commentary_sha256": "1090df71c41a7cdaafccf55f04c2eb0f48adfbdb407dce156950f621f8435c00",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p36",
+      "reviewed": true,
+      "focus": "Lebenszeitbestellung und Verbandsanhörung ohne Veto; Unterschied zu Ausschuss des § 18.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE005902305",
+      "commentary_sha256": "baa1f388a291412e3617350147208a781b8288bd59e4b290bed05ca5782e97c1",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p37",
+      "reviewed": true,
+      "focus": "Zwingendes Alter 30 gegenüber Soll-Erfahrung von fünf Jahren und entsprechendem Statusrecht.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE006001305",
+      "commentary_sha256": "cc45255c69f456c93be80279f9f0a5f5560bab33420fb3253db944692b6ad5ab",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p38",
+      "reviewed": true,
+      "focus": "Ausschuss bei jedem LAG unabhängig von der Kammerzahl und gesetzliche Anhörungsgegenstände.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE006100303",
+      "commentary_sha256": "467b1fdd7fbc99f6d191258a7b917bff63c93869c929d99db36f0dc933de4a83",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p39",
+      "reviewed": true,
+      "focus": "Vorab-Liste und entsprechende Hilfsliste; Gruppenbesetzung bleibt im Ersatzfall maßgeblich.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE006200303",
+      "commentary_sha256": "e7c116a12b8ab9f749f24163041625b6a7e9e48cecc21e5d98277a3e3bd9ff63",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p40",
+      "reviewed": true,
+      "focus": "Sitz Erfurt, weggefallener Absatz 1a und Einvernehmen der Ressorts.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE006308311",
+      "commentary_sha256": "62ef05369a612457321b152c5cc327d1693cfaf0d2b6872a6f985c2c98aff0ec",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p41",
+      "reviewed": true,
+      "focus": "Fünferbesetzung des Senats und Ausnahme bei Zulässigkeitsverwerfung der Nichtzulassungsbeschwerde.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE006404311",
+      "commentary_sha256": "c32cc11b9c9885d27b62d273e74b6ffae9f25e80164ebb0728f9786e5a352c7a",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p42",
+      "reviewed": true,
+      "focus": "Richterwahlverweisung, Benehmen und zwingendes Alter 35; keine vollständige Eignungsregel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE006504311",
+      "commentary_sha256": "0f221dea7a194a5d4b7e641eff068e8353f51efc8af2c110a333e659c478aaca",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p43",
+      "reviewed": true,
+      "focus": "Bundesweite Vorschlagsberechtigung, zwingende und Sollmerkmale sowie besonderer Entscheidungssenat.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE006604308",
+      "commentary_sha256": "74f829e38d4ac4c7e8591d832f15098a8803a54612a40f2938998f5685ccb54d",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p44",
+      "reviewed": true,
+      "focus": "Je zwei Lebensälteste statt Dienstälteste; Anhörung vor Zuteilung und Geschäftsordnung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE006701160",
+      "commentary_sha256": "a875140820b6f73b070148cc126caad230db2410d3cb175b2b89fc368a4af085",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p45",
+      "reviewed": true,
+      "focus": "Divergenzanfrage, Grundsatzvorlage, Besetzung, Stichentscheid und Bindung nur in der vorliegenden Sache.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE006801309",
+      "commentary_sha256": "6c625ee46508badff855dce54e6976869681d3073f8ac753f0f0074c540a18ec",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p46",
+      "reviewed": true,
+      "focus": "Vorrang ArbGG, ausgeschlossene ZPO-Verfahren und spezifische Video-/Protokollmaßgaben.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE006906125",
+      "commentary_sha256": "670628f9fff3914d332de8f2db485729b6249f8b53d76257c905fb60b631ec99",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p46a",
+      "reviewed": true,
+      "focus": "Nationales Mahngericht, Wochenfrist, Widerspruch/Antrag, Anspruchsbegründung und Rechtshängigkeitsrückwirkung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE007010131",
+      "commentary_sha256": "7e0440ac038b267ddcfcc624281ab97b89ead650531f8e0914759d20c36b1a25",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p46b",
+      "reviewed": true,
+      "focus": "Europäisches Mahnverfahren und fingierter Verhandlungsantrag gegenüber § 46a.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE015802160",
+      "commentary_sha256": "89b6131fc7ecae9bf5d67d878cb477f9533accf3fc509965f094c9d9b047e048",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p46c",
+      "reviewed": true,
+      "focus": "Eignung, Authentifizierung, sichere Wege, Eingang und enge Nachreichungswirkung; BAG-Signaturfall samt Ausnahme geprüft.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE016708131",
+      "commentary_sha256": "f721996b6799e3d7a5763520d893204473f4f6508082aeed5ec0472f2fe05bc4",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p46d",
+      "reviewed": true,
+      "focus": "Gerichtliche Namens-/Signaturanforderung und ersetzende Übertragung von Zustellung getrennt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE016203311",
+      "commentary_sha256": "80cbfe7e7d77db208fbb7e2110e9334551dd310a0729e2d31c9e3ef2c8924944",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p46e",
+      "reviewed": true,
+      "focus": "Grundpflicht, Altakten, Übertragungsnachweis, Vernichtungsgrenze und Übergang nach § 112 Absatz 4.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE016310131",
+      "commentary_sha256": "baf6df6ce4d18ce07210855ea15f2ff20eb86e89f0cee8b6ee759366bfb8d551",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p46f",
+      "reviewed": true,
+      "focus": "Ermächtigung statt bereits eingeführtem Pflichtformular, Plattform und besondere Identifikation.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE016901125",
+      "commentary_sha256": "17acf783b82a08fef6776032a1d173cdb9fdd5ec4854bbc270ed70773bdb2f2e",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p46g",
+      "reviewed": true,
+      "focus": "Aktueller Personenkreis und Ausnahmen, technische Ersatzübermittlung, historischer Syndikusfall ohne pauschale Übertragung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE017004131",
+      "commentary_sha256": "09ec733f04a51084e70845f5a8f1e4d75c5b848449ea26094bc7b7eb73cfd182",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p46h",
+      "reviewed": true,
+      "focus": "Klar erkennbare Willenserklärung und gerichtliche Zustellung/Mitteilung statt bloßer Einreichung; sonstige Wirksamkeit nicht fingiert.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE017200125",
+      "commentary_sha256": "53c2822235d469ba0f4a1a29d7939aa433c1f4fbaec4210b72a6d9fc057711bb",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p47",
+      "reviewed": true,
+      "focus": "Wochenfrist ab Zustellung und regelmäßiger Verzicht auf schriftliche Erwiderungsaufforderung; Sternchen ohne erfundene Fußnote.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE007100303",
+      "commentary_sha256": "02c76547aec57a525d95d8bb9e71cbbef33c56b3a5e02df88dd953ad50455db2",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p48",
+      "reviewed": true,
+      "focus": "Kammerzuständigkeit nichtörtlicher Entscheidungen, Arbeitsortgerichtsstand und tarifliche Gerichtsstandsvereinbarung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE007204160",
+      "commentary_sha256": "51e3320891590aa23299f9441ea2c2060d63703295759a08230a750bff6c6d22",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p48a",
+      "reviewed": true,
+      "focus": "Amtlich ausdrücklich nur Strich ohne Überschrift; keine historische Norm rekonstruiert.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE007301309",
+      "commentary_sha256": "e89541db8352f41ab09599dc629fe63b460564b8f9aadeb054e3a45585f94753",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p49",
+      "reviewed": true,
+      "focus": "Kammerentscheidung, Ersatz-LAG bei Beschlussunfähigkeit und Rechtsmittelausschluss.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE007400303",
+      "commentary_sha256": "c56235b08bf24c49c91db8895b059b66894ed136d7ccf68832284faa4852b092",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p50",
+      "reviewed": true,
+      "focus": "Drei Wochen ab Geschäftsstellenübermittlung von Rechtsmittelfristen getrennt; entsprechende Zustellung an Vertreter.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE007504125",
+      "commentary_sha256": "1b97dcf5468488b9e187c912919868b738f126e6ba434eee27d2663e139cf0df",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p50a",
+      "reviewed": true,
+      "focus": "Eignung/Kapazität, Gestattung, Ablehnungsbegründung, privates Aufnahmeverbot und gerichtliche Protokollaufzeichnung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE017300125",
+      "commentary_sha256": "1b6fd5617693eb30ff5edc7a8527a83fffa58c0f60f0b9043f8c0b8678631c5b",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p51",
+      "reviewed": true,
+      "focus": "Video als persönliches Erscheinen und kumulative Voraussetzungen der besonderen Reaktion gegen Bevollmächtigte.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE007601125",
+      "commentary_sha256": "308a9564b23a743c873d27152d3e0ccc886118d0d8cddfae74742c12f1a6b55b",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p52",
+      "reviewed": true,
+      "focus": "Öffentlichkeit, begrenzter Ausschluss, Geheimnisantrag und zusätzliche Zweckmäßigkeit im Güteverfahren.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE007702311",
+      "commentary_sha256": "b8ee76f26b1d3b6e95c70e40b22e60555cb285c8da890202593c2d1dcd0d32af",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p53",
+      "reviewed": true,
+      "focus": "Vorsitzendenbefugnis außerhalb mündlicher Verhandlung unter Sondervorbehalt des § 48.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE007800303",
+      "commentary_sha256": "64ccbbfabe37a90d48822319f4f89b4e5753f7a7804a6fe0b6e459b463b615c1",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p54",
+      "reviewed": true,
+      "focus": "Zustimmung zur Gütefortsetzung, protokolliertes Geständnis, beidseitige Säumnis, sechs Monate und Güterichter.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE007905125",
+      "commentary_sha256": "a4f959a94a803c06a6d78d834b219da057ee22209e5c77d970deaf0f78e3ce86",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p54a",
+      "reviewed": true,
+      "focus": "Externe Mediation, Ruhen und Wiederaufnahme nach drei Monaten außer gemeinsamer Fortdauererklärung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE016800308",
+      "commentary_sha256": "6c9936ef023ad052bf63e900589f9f756476992ddce17220601e18945e66b8ce",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p55",
+      "reviewed": true,
+      "focus": "Enumerierte Alleinentscheidungen, spezifische Verhandlungsfreiheit, protokollierter Anschlussantrag und Grenzen vorgezogener Beweise.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE016502311",
+      "commentary_sha256": "4fab2e4842e80bfcd7d45e441c1c9026a2203a1c2e1e241106af788b13bb28ca",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p56",
+      "reviewed": true,
+      "focus": "Gezielte Vorbereitung, Benachrichtigung und Präklusion nur mit Verzögerungs-/Entschuldigungsprüfung und Belehrung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE008101309",
+      "commentary_sha256": "ef5d39066c8ef62a04d83170eb22970f72f479935ff3e99293a2ea3685cc31d8",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p57",
+      "reviewed": true,
+      "focus": "Fortsetzungstermin sofort verkünden und Vergleichsbemühung über Gütephase hinaus.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE008200303",
+      "commentary_sha256": "5c043248be9ac4f1144afd146e53eeff2cda6448d5fcecd95a0593e5e7a4bfa9",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p58",
+      "reviewed": true,
+      "focus": "Kammerbeweis, notwendige Beeidigung, öffentliche Urkunden und Videoausnahme für Urkundenbeweis; XML-Wortzusammenziehungen erhalten.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE008303125",
+      "commentary_sha256": "65fe25aedf5e85a23bf47a360e0fe4d677fa966493281e21f312c49ed0cabc73",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p59",
+      "reviewed": true,
+      "focus": "Einwöchige Notfrist ab Zustellung, gesetzliche Einlegungsformen und elektronische Nutzungspflicht; § 345 nicht übergangen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE008401311",
+      "commentary_sha256": "f6f0720b05b7b05e830e5857ddfd6d98400ef04f4c38dee612c8e3941e8cdc4d",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p60",
+      "reviewed": true,
+      "focus": "Sofortverkündung, Dreiwochenmaßstäbe, Mitteilung der Gründe, Unterschriften und vollständige spätere Verkündung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE008502125",
+      "commentary_sha256": "33e32e75f82e02ec4ece081cd55cdc668aa944adbd3a952d8ad05ee54ba3e844",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p61",
+      "reviewed": true,
+      "focus": "Wertfestsetzung, beantragte Ersatzentschädigung statt Vollstreckung nach §§ 887/888 und Grundurteil-Rechtsmittelschranke.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE008600303",
+      "commentary_sha256": "466e1dd2effec91728609109ecfa75051ec739147cb2c44de3ad7443b62f8a75",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p61a",
+      "reviewed": true,
+      "focus": "Vorrang, Zweiwochen-Gütetermin als Soll, Mindestäußerungsfristen, Verzögerung/Entschuldigung und Belehrung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE008700303",
+      "commentary_sha256": "dee81400bc01c03e923d3c0c772227b91fff8beb1dca54dc37a945cb302e2d72",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p61b",
+      "reviewed": true,
+      "focus": "Drei Monate nach schriftlicher Anspruchsgeltendmachung, Konzentration und sechsmonatige Wartezeit ohne Klagefristverlängerung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE015702301",
+      "commentary_sha256": "c154141b4e3f9e739250bc9a8e9426496ae4adf6222518c2b2fe8e99fae12215",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p62",
+      "reviewed": true,
+      "focus": "Vorläufige Vollstreckung, irreparabler Nachteil, Schutzschrift und seit 1.10.2026 Vollmachtversicherungen; ZPO-Volltexte geprüft.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE008804126",
+      "commentary_sha256": "1461bd6c5d848a9cecd42b3ec73ede5c300d27053585ba9e98324156078696d2",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p63",
+      "reviewed": true,
+      "focus": "Nur rechtskräftige Tarifparteienurteile, vollständige Übersendung und zusätzlicher Landesempfänger.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE008905308",
+      "commentary_sha256": "5302d768ef046c51e84e29e2e3c0b66db05d5701c23d572e2f26c566e7407309",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p64",
+      "reviewed": true,
+      "focus": "Mehr als 600 Euro, alternative Statthaftigkeit, Tenorergänzung binnen zwei Wochen, Bindung und kein Einzelrichter.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE009008125",
+      "commentary_sha256": "777edc130e8d82e9d037cc63d4501a33bb60c1d06907565ad5d62a3609c43521",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p65",
+      "reviewed": true,
+      "focus": "Bestimmte ausgeschlossene Prüfungsfragen von beliebigen Sitzungsbesetzungsfehlern abgegrenzt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE009102310",
+      "commentary_sha256": "c197c706b52e6f12c75139cee77b6344c3858f2c29045a9e16a375f629393c38",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p66",
+      "reviewed": true,
+      "focus": "Einlegung/Begründung/Antwort und jeweilige Anknüpfung, begrenzte Verlängerung, Verwerfung; BAG-Wiedereinsetzung geprüft.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE009202160",
+      "commentary_sha256": "effb13fedc5dff5b9309d26ea0e84704f66f72ab58ffa856c93cfe58ae469c2e",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p67",
+      "reviewed": true,
+      "focus": "Vier Stufen neuen Vortrags und verschiedene Verschuldensmaßstäbe nicht vermengt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE009301310",
+      "commentary_sha256": "2de178fb7641b85239f92ba59519e992e8cf49258d2c27afec6d2b2422ee640c",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p68",
+      "reviewed": true,
+      "focus": "Verbot der Zurückverweisung wegen erstinstanzlichen Verfahrensmangels ohne Aufgabe weiterer Aufklärung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE009500303",
+      "commentary_sha256": "73ffc023727d4822f7199b7c6ad44a93b9797a446a5f45b0e1adca92c61c423b",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p69",
+      "reviewed": true,
+      "focus": "Alle Unterschriften, Vierwochenmaßgabe, Darstellungsverkürzung und revisionsgeeigneter Tatbestand.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE009602310",
+      "commentary_sha256": "956111eb084f6503ed669cb83acafd00ca5bbb6c3ebd53469560062fe967b85b",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p70",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE009702310",
+      "commentary_sha256": "35b4aaba2875d43994ec69d752bed3e3ecbc927e463d559062e0b52200f525c7",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p71",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE009800303",
+      "commentary_sha256": "c96f65d762eaa58f0c5c737496474459d71b9b68ba19a35e4037b910eec06884",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p72",
+      "reviewed": true,
+      "focus": "Zulassung, Grundsatz/Divergenz/spezifische Verfahrensfehler, Eilurteilausschluss und besondere ZPO-Ausnahmen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE009909125",
+      "commentary_sha256": "d097c27297a4d819034b80943c0735cc566251d2ddb7808e75cda834bebbdf39",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p72a",
+      "reviewed": true,
+      "focus": "Zwei Notfristen, Darlegungsanforderungen, Rechtskraftwirkung, Besetzungsausnahmen und Überleitung/Gehörszurückverweisung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE010001301",
+      "commentary_sha256": "caf3fe546ff9862508cc3857b15d0f04a7cebb2e0c2c2b7b57f21d52f992bd8d",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p72b",
+      "reviewed": true,
+      "focus": "Vollständige Fassung, sämtliche Unterschriften und Übergabe binnen fünf Monaten; Sondernotfrist ohne § 9 Absatz 5.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE015900301",
+      "commentary_sha256": "12ac36a29325898b7424851d600005233057b92ad317ed444786cfef61a1b4fb",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p73",
+      "reviewed": true,
+      "focus": "Rechtsnormverletzung und Beruhen statt neuer Tatsacheninstanz; § 72b ausgeschlossen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE010102301",
+      "commentary_sha256": "0d7f581e96324d48982a31f435e11e0eb3512aafda006bdad048ba0f5b5b951e",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p74",
+      "reviewed": true,
+      "focus": "Ein-/Zweimonatsfristen, spätester Beginn, einmal maximal ein Monat Verlängerung und berufsrichterliche Verwerfung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE010201310",
+      "commentary_sha256": "530f9e9a9b45ea69afb011e3cdbfefea25c89db07af34b9f4bf07bdc6cb47654",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p75",
+      "reviewed": true,
+      "focus": "Verkündung ohne Ehrenamtliche von vorheriger Tenorunterschrift und vollständigen Urteilsunterschriften getrennt.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE010300303",
+      "commentary_sha256": "1ae46db2de55709e9c4f00c6591a3082fbedd14ac94119daa02fa11669e21e02",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p76",
+      "reviewed": true,
+      "focus": "Zustimmung, enger kumulativer Zulassungskatalog, Fristneubeginn, Rügeverzicht und mögliche LAG-Zurückverweisung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE010401310",
+      "commentary_sha256": "7632d571285fee72b60ba9aded2d528367f8feda6acee55473dda41619485cad",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p77",
+      "reviewed": true,
+      "focus": "Zulassung der Revisionsbeschwerde gegen Berufungsverwerfung, berufsrichterliche Besetzung und Reichweite des geprüften BAG-Falls.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE010502311",
+      "commentary_sha256": "525e657604e9fb9eb226190ede95b8123808abcad99332b5079ab3956e4ffc17",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p78",
+      "reviewed": true,
+      "focus": "Nur gesetzlich beschwerdefähige Entscheidungen; keine Umgehung ausdrücklicher Unanfechtbarkeit und Abgrenzung §§ 87 ff.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE010603301",
+      "commentary_sha256": "46c453debde34134f34dc11c20225db89726771f43690f4a5984c75b96f3c576",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p78a",
+      "reviewed": true,
+      "focus": "Subsidiarität, entscheidungserhebliches Gehör, Zweiwochen-/Jahresgrenze, Vier-Tage-Fiktion und Mitwirkungsausnahmen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE016001125",
+      "commentary_sha256": "b12aeadf7ea5a086f86979e1cf46fa65c71b78a1cf5e3f33836c285477e2ca73",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p79",
+      "reviewed": true,
+      "focus": "Wiederaufnahmeverweisung und ausgeschlossene Berufungsmängel Ehrenamtlicher ohne allgemeine neue Sachverhandlung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE010700303",
+      "commentary_sha256": "7d0325c92a5c7f263f5827d165c23c3c18414feb89fe966d27ddd75127ef3485",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p80",
+      "reviewed": true,
+      "focus": "Keine freie Wahl der Verfahrensart; optionales Güteverfahren und Vorrang §§ 81–84.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE010804125",
+      "commentary_sha256": "223d7a3e9aec981ac5bcd31ad0f944b87951d29ef4fd3610aa4828cd869102a1",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p81",
+      "reviewed": true,
+      "focus": "Antragsbindung, Rücknahmeform, Einstellung, Änderungszustimmung oder Sachdienlichkeit; höhere Instanzen anders.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE010901311",
+      "commentary_sha256": "1fdf56ee45214926eeefbdfaaab03f0a68a3bc1b988a83e078ee04ccbb44c222",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p82",
+      "reviewed": true,
+      "focus": "Betrieb gegenüber Unternehmenssitz sowie besondere europäische/Umwandlungssitze vor und nach Eintragung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE011009125",
+      "commentary_sha256": "8d13a7aea507d8ac7ffff54fbe9016ba1074af8b9ef18c5096c4c19b85d7cddd",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p83",
+      "reviewed": true,
+      "focus": "Amtsermittlung innerhalb des Antrags, Mitwirkung, ermessensgebundene Präklusion, Beteiligung und keine Säumnisentscheidung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE011114125",
+      "commentary_sha256": "f67b1b12a053175e82db37cab79976f41656c429f006f087cfd5aa42a2d642ba",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p83a",
+      "reviewed": true,
+      "focus": "Vergleich nur bei Verfügungsbefugnis; einseitige Erledigung mit Mindestfrist und Zustimmung durch Schweigen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE011202311",
+      "commentary_sha256": "d341707ed69b817d3a5990b3208a808862fe03bafa4e372be39cedc46e15e8e2",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p84",
+      "reviewed": true,
+      "focus": "Freie Überzeugung aus Gesamtstoff und übernommene schriftliche Entscheidungsform.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE011300303",
+      "commentary_sha256": "2175a3973fe88bb84eeb65317276692638b4af0c4c4de187d724d67de1f6aef5",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p85",
+      "reviewed": true,
+      "focus": "Rechtskraft, vermögensrechtliche vorläufige Vollstreckbarkeit, Haftausnahmen und besondere Eilregeln.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE011402311",
+      "commentary_sha256": "8389a659873c9b4f55c2ae0c946150ca7848c1cb9305eb87081e286b5a2f6316",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p86",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE011500303",
+      "commentary_sha256": "db0bd51f51a4374a2cbb8fbe0fe0341f0519d35616ee1bf7614fb8dd43c3a770",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p87",
+      "reviewed": true,
+      "focus": "Verfahrensbeendender Beschluss, Rücknahmezustimmung, eigenständige Präklusion und Vorbehalt vermögensrechtlicher Vollstreckung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE011606125",
+      "commentary_sha256": "bf0ce4815c898f17cbb4c382ca3c94e5b71f6af055614939b087843318f224b2",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p88",
+      "reviewed": true,
+      "focus": "Verweisung auf begrenzte Prüfungsschranken des § 65, keine Freistellung von jeder Verfahrensprüfung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE011701309",
+      "commentary_sha256": "211930c13d058ede028eb86ea7add9ef539d836f570c178ff90dc9fc71f4bdba",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p89",
+      "reviewed": true,
+      "focus": "Qualifizierte Einlegung/Begründung, konkrete Fristen ergänzt, unanfechtbare Verwerfung und Rechtsmittelrücknahme.",
+      "corrected": true,
+      "source_doknr": "BJNR012670953BJNE016600160",
+      "commentary_sha256": "1ba0d5cdab699c5d9836bea10ecedb8bbcb3102690f97bc7d576abbcbd411dde",
+      "result": "resolved"
+    },
+    {
+      "id": "p90",
+      "reviewed": true,
+      "focus": "Zustellung, besondere Protokollgeschäftsstelle und fortbestehende Amtsermittlung/Beteiligung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE011902125",
+      "commentary_sha256": "b70934a7c59ac0e3317507d788b634af73d012df170376d466686164cb5b94b2",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p91",
+      "reviewed": true,
+      "focus": "Unbeschränkt formuliertes Zurückverweisungsverbot, vollständige Unterschriften und Abfassungsmaßgabe.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE012000303",
+      "commentary_sha256": "2cf339d168a9b5fe914db0942205e0749f043cfecd511f452cc0ba858fff782e",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p92",
+      "reviewed": true,
+      "focus": "Zulassung und Eilverfahrensausschluss, Vertretungsregeln gegenüber § 94 und aufschiebende Wirkung mit Ausnahme.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE012103125",
+      "commentary_sha256": "a472ed2cd5c51641f9f80b6ae3ac67c300d6f0bf043e733db37c225ed4ad76ce",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p92a",
+      "reviewed": true,
+      "focus": "Übernommene Notfristen und erfolgreiche Überleitung statt formfreier Gegenvorstellung; § 92b gesondert.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE012201301",
+      "commentary_sha256": "28abedcbcc00f8aee2cd1adb97d6c8f02a3d51192994054868cad8be2a141311",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p92b",
+      "reviewed": true,
+      "focus": "Fünfmonatiger Absetzungsmangel und § 72b Absatz 2–5 einschließlich besonderem Fristbeginn ohne Belehrungsrettung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE016100301",
+      "commentary_sha256": "fff4a32e720afa80b46435cc7e366493bb5e81064386c2acaa2f8a4354ed2fc6",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p93",
+      "reviewed": true,
+      "focus": "Nicht-/Fehlanwendung einer Rechtsnorm mit Beruhen; keine Tatsachenrevision oder Absetzungsrüge.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE012302301",
+      "commentary_sha256": "1c0b2e420b284c8a408b4cad3eac9447e251fc7c8d73ee175e03cbbc8020bb6b",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p94",
+      "reviewed": true,
+      "focus": "Qualifizierte Einlegung/Begründung, genaue Fristen und Überleitung ergänzt; Rücknahme nicht mit Antragsrücknahme gleichgesetzt.",
+      "corrected": true,
+      "source_doknr": "BJNR012670953BJNE012401301",
+      "commentary_sha256": "c1518ceb13fb4e40dd8ec200bcc50b575152f8024c45827c64a6f8e656e0a9b9",
+      "result": "resolved"
+    },
+    {
+      "id": "p95",
+      "reviewed": true,
+      "focus": "Besondere Antwortform und Geschäftsstelle; fehlende Antwort weder Verfahrensblockade noch Anerkenntnis.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE012501311",
+      "commentary_sha256": "0b446a22dab9f8481047a7f22dea2e402f4da4c68781f2d530ee296bf00b899c",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p96",
+      "reviewed": true,
+      "focus": "Revisionsrechtliche Entscheidungsfolgen, alle Senatsunterschriften und Unterschied zu LAG-Zurückverweisungsverbot.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE012601310",
+      "commentary_sha256": "37847571d3ab4025c65f5a58d3fd639a7f867305dc95223d51f6d721a5f81744",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p96a",
+      "reviewed": true,
+      "focus": "Alle übrigen Zustimmungen, grundsätzliche Bedeutung, kein tariflicher Zusatzkatalog und übernommene Verzichtsfolgen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE012700303",
+      "commentary_sha256": "b48030fa3c50b57525f00e81d9a2ee48208525632fe3b135424e99fbb77cfec3",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p97",
+      "reviewed": true,
+      "focus": "LAG am Vereinssitz, begrenzte Antragsberechtigung, Jedermannwirkung, Wiederaufnahme und abhängige Aussetzung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE012803125",
+      "commentary_sha256": "f379842e79e65e42f246e947f0050adcf628df88ef0ebc2754883ae37198b0ea",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p98",
+      "reviewed": true,
+      "focus": "Eigene Rechtsverletzung, LAG am Behördensitz, Jedermannwirkung und zwingende vorläufige Leistung mit Ausnahmen präzisiert.",
+      "corrected": true,
+      "source_doknr": "BJNR012670953BJNE012905125",
+      "commentary_sha256": "9b42078e6deb0389ba5e5b0ffe4a7c7390e7cb0bf787241797470be193c495c9",
+      "result": "resolved"
+    },
+    {
+      "id": "p99",
+      "reviewed": true,
+      "focus": "Tarifanwendbarkeit gegenüber Tariffähigkeit präzisiert; Arbeitsgericht, betrieblicher Bezug und Jedermannwirkung.",
+      "corrected": true,
+      "source_doknr": "BJNR012670953BJNE017100311",
+      "commentary_sha256": "e311ff813594978c693c6f282cc1b4882b8fa0508c2b5ce67ccf8ba027344f94",
+      "result": "resolved"
+    },
+    {
+      "id": "p100",
+      "reviewed": true,
+      "focus": "Offensichtliche Unzuständigkeit, 48 Stunden, Richterrollentrennung, Zustellfristen und zweiwöchige Einlegung samt Begründung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE013002311",
+      "commentary_sha256": "1c83a4fb5d31812ce9c5658f8a52b62ac606759e4cb5bf75a569b5c06437b26e",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p101",
+      "reviewed": true,
+      "focus": "Enge tarifliche Schiedskonstellationen, Künstlermehrheit, besondere schriftliche Erstreckung und Ausschluss ZPO-Schiedsrecht.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE013201311",
+      "commentary_sha256": "30d622f93ef55996a60386f97971550d2819972e8c673420cb669371c2fbe2df",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p102",
+      "reviewed": true,
+      "focus": "Einrede sowie vier Funktionsstörungsfälle, Wochenfrist und spezielle gerichtliche Fristsetzung auf Antrag.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE013301309",
+      "commentary_sha256": "e87b48aca6dee3b459ddfece7c601b9582dc5221e127b3c7d45300b9be83652e",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p103",
+      "reviewed": true,
+      "focus": "Parität/Unparteiische, Ausschlussfähigkeit sprachlich berichtigt, Ablehnungszuständigkeit und Anhörung.",
+      "corrected": true,
+      "source_doknr": "BJNR012670953BJNE013400303",
+      "commentary_sha256": "9a5d194ddadaed21854853a5e0c93b0928ad444d9e4d520b99efb3991fb8cd08",
+      "result": "resolved"
+    },
+    {
+      "id": "p104",
+      "reviewed": true,
+      "focus": "Vertrag und gesetzliche Schranken vor ergänzendem Ermessen; keine freie Ersetzung durch ZPO-Schiedsrecht.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE013500303",
+      "commentary_sha256": "e49c9a7f5c63ae97e475900e8ac87b1ff11843720060d5d4ec9ca7bfac7f37fc",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p105",
+      "reviewed": true,
+      "focus": "Mündliche Anhörung zwingend klargestellt; schriftliche Vollmacht ohne Beglaubigung, Vertretungsvorbehalt und unentschuldigtes Ausbleiben.",
+      "corrected": true,
+      "source_doknr": "BJNR012670953BJNE013601301",
+      "commentary_sha256": "29d084ab40e6e9aa49ef6a18270a4cc5fc1e493fa6c396b6da38b2a6693ee2e9",
+      "result": "resolved"
+    },
+    {
+      "id": "p106",
+      "reviewed": true,
+      "focus": "Nur verfügbare Beweismittel, keine eigenen Eide/eidesstattlichen Versicherungen und staatliche Rechtshilfe samt Auslagen.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE013701301",
+      "commentary_sha256": "e754d1c26327f6be8efe462a6c2d76c995f0c6af93588fcfe91950d28984d683",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p107",
+      "reviewed": true,
+      "focus": "Datum sowie Unterschriften beider Parteien und aller Schiedsmitglieder; Vollstreckbarerklärung gesondert.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE013800303",
+      "commentary_sha256": "cf0c7668622a892a7c61e57a03b00d7528cbaa38c413d7cef4d1018a316a7641",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p108",
+      "reviewed": true,
+      "focus": "Mehrheitsvorbehalt, ausdrücklicher Begründungsverzicht, Ausfertigungszustellung und Niederlegung gegenüber Bindungswirkung.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE013900303",
+      "commentary_sha256": "b866c95a30f950d0ebd8f0025758b4e5104bf4c6322995ea4d2ba026967179d6",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p109",
+      "reviewed": true,
+      "focus": "Vorsitzendenerklärung, Gegneranhörung, zwingende Aussetzung bei nachgewiesener Aufhebungsklage und Endgültigkeit.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE014000303",
+      "commentary_sha256": "b68782f12da24fd163cfc961cec53b898fa79d85fa1d3113737a0ecf77c51d06",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p110",
+      "reviewed": true,
+      "focus": "Drei Aufhebungsgruppen, Zweiwochen-Notfrist mit verschiedenen Auslösern und Zehnjahresgrenze für Restitutionsgruppe.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE014100303",
+      "commentary_sha256": "8d38a263587878c7c67f8b750357eee02b08116498e727c9ea7296f7fc923bc5",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p111",
+      "reviewed": true,
+      "focus": "Versehentlich umgekehrte Reihenfolge korrigiert: Ausschussverhandlung vor Klage; Anerkennung und Klagefrist getrennt.",
+      "corrected": true,
+      "source_doknr": "BJNR012670953BJNE014201305",
+      "commentary_sha256": "ed29cf45881750cc212cfc83d55153ea24fd49f629ad1d808a25fc2ee89f15df",
+      "result": "resolved"
+    },
+    {
+      "id": "p112",
+      "reviewed": true,
+      "focus": "Altverfahren 2014, § 43 EGGVG, Geheimhaltungsgrade 2035 und verordnungsabhängige Papierausnahme 2026.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE014312131",
+      "commentary_sha256": "7850f8071d56a24b36f85987be623357b6e4cabce47a6eae84a39052333b36b0",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p113",
+      "reviewed": true,
+      "focus": "Vergangene Berichtspflicht als verbindlich formuliert; weder neue Frist noch automatisches Außerkrafttreten.",
+      "corrected": true,
+      "source_doknr": "BJNR012670953BJNE014401311",
+      "commentary_sha256": "1e4678fbf5e7fd0a7a5b9eed81dc698724d3b713f22949f1e2a9409781114167",
+      "result": "resolved"
+    },
+    {
+      "id": "p114",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE014502125",
+      "commentary_sha256": "5225c521629b646b571973214ccea29744d15ab7bdaab0bae70817f568c278fc",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p115",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE014600303",
+      "commentary_sha256": "5bef8418bef53924a7dfc86f07ab8622384252b61eb725eb74517562cb94f883",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p116",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE014700303",
+      "commentary_sha256": "4a144dcb80d6a1c5e839d5e17fe8f8c60e37a83b02f56081fc8835ea3342b62e",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p117",
+      "reviewed": true,
+      "focus": "Bundesregierung nur bei fehlendem Einvernehmen nach §§ 40/41, kein Rechtsprechungskorrektiv.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE014801305",
+      "commentary_sha256": "dce2f7300b87dd51a71331a279497587cd10d095b39721e70b241073ff563e45",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p118",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE014900303",
+      "commentary_sha256": "108426bc74ed765454c5c11580e40b631ee7ab145908c1faa4b4142fe03e7f79",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p119",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE015000303",
+      "commentary_sha256": "a3462f6985e2165693ce3bf621ba118d192d5bdea4fdb44d9d28cfc3c9c7b74e",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p120",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE015100303",
+      "commentary_sha256": "9c1585ad16b9c0611a21d8a74e313fde1bbefac9fee022799d0809b19cb84a76",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p121",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE015201301",
+      "commentary_sha256": "c6e6e6c3e46e1ce4dfc1e19e88b14bfb40e1f32246b337de298cb16e31b7790a",
+      "result": "no_material_finding"
+    },
+    {
+      "id": "p122",
+      "reviewed": true,
+      "focus": "Amtlicher Wegfallvermerk ohne operativen Körper; Kommentar ergänzt keine historische Regel.",
+      "corrected": false,
+      "source_doknr": "BJNR012670953BJNE015301301",
+      "commentary_sha256": "2548422214497928b37e49a6c415c3132d6e9f97f6d77e19f01718678d493931",
+      "result": "no_material_finding"
+    }
+  ]
+}

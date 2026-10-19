@@ -1,7 +1,7 @@
 {
   "units": 147,
   "commented_units": 147,
-  "commentary_chars": 166559,
+  "commentary_chars": 168551,
   "missing_comments": [],
   "extra_comments": [],
   "duplicate_delimiters": {},
@@ -9,6 +9,6 @@
   "exact_repeated_substantive_paragraphs": [],
   "broken_local_links": [],
   "minimum_length_is_quality_proof": false,
-  "legal_review": "Author source-based drafting checks only; independent second pass outstanding.",
+  "legal_review": "Separate-process second pass documented in REVIEW.md, second-pass-unit-review.json and review-result.json; no external professional approval.",
   "ok": true
 }

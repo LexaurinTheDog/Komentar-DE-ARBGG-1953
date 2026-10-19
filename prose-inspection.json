@@ -4,6 +4,11 @@
   "all_commentary_blocks": 147,
   "highest_overlap_pairs": [
     {
+      "first": "p89",
+      "second": "p94",
+      "five_word_jaccard": 0.03704
+    },
+    {
       "first": "p46g",
       "second": "p77",
       "five_word_jaccard": 0.03
@@ -17,6 +22,11 @@
       "first": "p11",
       "second": "p77",
       "five_word_jaccard": 0.02508
+    },
+    {
+      "first": "p74",
+      "second": "p94",
+      "five_word_jaccard": 0.025
     },
     {
       "first": "p46c",
@@ -39,19 +49,9 @@
       "five_word_jaccard": 0.01389
     },
     {
-      "first": "p89",
-      "second": "p97",
-      "five_word_jaccard": 0.01194
-    },
-    {
       "first": "p72b",
       "second": "p92b",
       "five_word_jaccard": 0.01115
-    },
-    {
-      "first": "p89",
-      "second": "p94",
-      "five_word_jaccard": 0.01075
     }
   ],
   "pairs_above_0_07": [],

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Independent coverage and XML character audit, then manuscript/link checks."""
+"""Coverage audit independent of the extraction algorithm, then manuscript/link checks."""
 from pathlib import Path
 from collections import Counter,defaultdict
 import re,json,hashlib,xml.etree.ElementTree as E,sys,urllib.parse
@@ -49,7 +49,7 @@ for p in out.rglob('*.md') if out.exists() else []:
   if target.startswith(('http:','https:','mailto:','#')):continue
   q=target.split('#')[0].strip('<>')
   if q and not (p.parent/urllib.parse.unquote(q)).exists():bad_links.append({'file':str(p.relative_to(out)),'target':target})
-audit={'units':len(units),'commented_units':len(blocks),'commentary_chars':sum(map(len,blocks.values())),'missing_comments':sorted(set(parsed)-set(blocks)),'extra_comments':sorted(set(blocks)-set(parsed)),'duplicate_delimiters':{k:v for k,v in delimiters.items() if v>1},'ordinary_units_below_700_chars':[u['id'] for u in units if len(u['text'])>160 and len(blocks.get(u['id'],''))<700],'exact_repeated_substantive_paragraphs':repeats,'broken_local_links':bad_links,'minimum_length_is_quality_proof':False,'legal_review':'Author source-based drafting checks only; independent second pass outstanding.'}
+audit={'units':len(units),'commented_units':len(blocks),'commentary_chars':sum(map(len,blocks.values())),'missing_comments':sorted(set(parsed)-set(blocks)),'extra_comments':sorted(set(blocks)-set(parsed)),'duplicate_delimiters':{k:v for k,v in delimiters.items() if v>1},'ordinary_units_below_700_chars':[u['id'] for u in units if len(u['text'])>160 and len(blocks.get(u['id'],''))<700],'exact_repeated_substantive_paragraphs':repeats,'broken_local_links':bad_links,'minimum_length_is_quality_proof':False,'legal_review':'Separate-process second pass documented in REVIEW.md, second-pass-unit-review.json and review-result.json; no external professional approval.'}
 audit['ok']=report['ok'] and not any([audit['missing_comments'],audit['extra_comments'],audit['duplicate_delimiters'],repeats,bad_links])
 (W/'audit-report.json').write_text(json.dumps(audit,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps({'completeness_ok':report['ok'],'expected':len(expected),'parsed':len(parsed),'commented':len(blocks),'xml_text_mismatches':text_errors,'footnote_mismatches':note_errors,'broken_links':bad_links,'repeated_paragraphs':len(repeats),'audit_ok':audit['ok']},ensure_ascii=False))
