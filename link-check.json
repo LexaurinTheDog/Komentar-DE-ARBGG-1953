@@ -1,0 +1,79 @@
+{
+  "external_source_links": [
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/index.html",
+      "status": 200,
+      "checked_at": "2026-10-19T14:25:30.086594+00:00",
+      "evidence": "sources/verification.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/",
+      "status": 200,
+      "checked_at": "2026-10-19T14:25:33.526430+00:00",
+      "evidence": "sources/verification.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/xml.zip",
+      "status": 200,
+      "checked_at": "2026-10-19T14:25:46.177711+00:00",
+      "evidence": "sources/verification.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html",
+      "status": 200,
+      "checked_at": "2026-10-19T14:25:47.636985+00:00",
+      "evidence": "sources/verification.json"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
+      "status": 200,
+      "checked_at": "2026-10-19T14:26:17.992826+00:00",
+      "evidence": "sources/verification.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__752a.html",
+      "status": 200,
+      "checked_at": "2026-10-19T14:46:21.986276+00:00",
+      "evidence": "sources/verification.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__753a.html",
+      "status": 200,
+      "checked_at": "2026-10-19T14:46:21.986501+00:00",
+      "evidence": "sources/verification.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+      "status": 200,
+      "checked_at": "2026-10-19T14:46:21.986562+00:00",
+      "evidence": "sources/verification.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvgeg/__43.html",
+      "status": 200,
+      "checked_at": "2026-10-19T14:46:21.986604+00:00",
+      "evidence": "sources/verification.json"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azb-18-22/",
+      "status": 200,
+      "checked_at": "2026-10-19T14:31:07.483194+00:00",
+      "evidence": "cases/verification.json"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azb-23-20/",
+      "status": 200,
+      "checked_at": "2026-10-19T14:31:08.760536+00:00",
+      "evidence": "cases/verification.json"
+    },
+    {
+      "url": "https://github.com/LexaurinTheDog",
+      "status": 200,
+      "checked_at": "2026-10-19T14:48:42.573718+00:00",
+      "method": "HEAD"
+    }
+  ],
+  "local_links_report": "audit-report.json",
+  "external_full_corpus_recheck": false,
+  "note": "Source links reuse actual fetch evidence, author project link additionally checked by HEAD. Original historical source metadata URLs not exhaustively retested."
+}

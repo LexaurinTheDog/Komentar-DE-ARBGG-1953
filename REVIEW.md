@@ -20,7 +20,7 @@ Alle 147 nummerierten Stellen wurden beim Schreiben gegen den gesicherten amtlic
 
 ## Technische Nachweise
 
-[completeness-report.json](completeness-report.json) prüft offizielle Kennungen aus XML und Inhaltsverzeichnis, Reihenfolge, Dubletten, sämtliche Nicht-Leerraumzeichen des Normkörpers und die Fußnoten. [audit-report.json](audit-report.json) prüft Kommentarabdeckung, doppelte Delimiter, exakte Wiederholung längerer Absätze und lokale Dokumentlinks. [validation-result.json](validation-result.json) enthält die unveränderte Ausgabe des strikten zentralen Validators. Der [Quellenmanifest](source-manifest.json) hält Abrufe und Dateiprüfsummen fest.
+[completeness-report.json](completeness-report.json) prüft offizielle Kennungen aus XML und Inhaltsverzeichnis, Reihenfolge, Dubletten, sämtliche Nicht-Leerraumzeichen des Normkörpers und die Fußnoten. [audit-report.json](audit-report.json) prüft Kommentarabdeckung, doppelte Delimiter, exakte Wiederholung längerer Absätze und lokale Dokumentlinks. [prose-inspection.json](prose-inspection.json) ergänzt einen Vergleich von Fünfwortfolgen; kein Paar gewöhnlicher Kommentare überschreitet darin 7 % Jaccard-Übereinstimmung. Das ist ebenfalls kein Beweis semantischer Eigenständigkeit oder juristischer Richtigkeit. [link-check.json](link-check.json) dokumentiert ergänzende Linkkontrollen. [validation-result.json](validation-result.json) enthält die unveränderte Ausgabe des strikten zentralen Validators. Der [Quellenmanifest](source-manifest.json) hält Abrufe und Dateiprüfsummen fest.
 
 ## Verbleibende Grenzen
 

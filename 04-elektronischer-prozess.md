@@ -163,7 +163,7 @@ Die Wirkung umfasst schriftliche und elektronische Form und gilt nach Satz 2 sog
 >
 > (2) Eine Aufforderung an den Beklagten, sich auf die Klage schriftlich zu äußern, erfolgt in der Regel nicht.
 
-Die Klageschrift muss mindestens eine Woche vor dem Termin zugestellt sein. Maßgeblich ist die Zustellung an den Beklagten, nicht schon die Einreichung beim Gericht. Die Regel sichert eine Mindestvorbereitung trotz des auf Beschleunigung angelegten Verfahrens. Der besondere Hinweis des amtlichen Titels wird im Quellenapparat als solcher erhalten und nicht in eine zusätzliche materielle Voraussetzung umgeformt.
+Die Klageschrift muss mindestens eine Woche vor dem Termin zugestellt sein. Maßgeblich ist die Zustellung an den Beklagten, nicht schon die Einreichung beim Gericht. Die Regel sichert eine Mindestvorbereitung trotz des auf Beschleunigung angelegten Verfahrens. Das Sternchen im amtlichen Titel wird unverändert übernommen; eine zugehörige inhaltliche Fußnote enthält der gesicherte Normdatensatz nicht.
 
 Absatz 2 beschreibt, dass eine schriftliche Klageerwiderungsaufforderung regelmäßig unterbleibt. Er verbietet dem Gericht keine konkrete vorbereitende Anordnung nach den einschlägigen Verfahrensregeln. Ebenso darf ein Beklagter daraus nicht schließen, er könne jede zugestellte Frist ignorieren. Beispiel: Eine Güteverhandlung wird sehr kurzfristig angesetzt. Es ist zu prüfen, wann die Klageschrift zugestellt wurde und ob die Mindestfrist gewahrt ist. Dass keine schriftliche Erwiderung verlangt wird, entbindet die beklagte Partei nicht davon, den Streitstoff zu prüfen und einen geeigneten Vertreter zum Termin zu entsenden.
 
